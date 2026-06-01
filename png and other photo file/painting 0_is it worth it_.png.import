@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf6dvndlerekd"
-path.s3tc="res://.godot/imported/wardrobe0_Shkaf_Base_color.png-a2405b414c13a6e1f34c679044c2b9ab.s3tc.ctex"
+uid="uid://bi7foe3patvax"
+path.s3tc="res://.godot/imported/painting 0_is it worth it_.png-75715930503dd7e751218fe89a6f5583.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "68d2769d29b99471452b4bb33117d06f"
+"md5": "6e116581f6a9117f2b8a1e7ecaa5c70b"
 }
 
 [deps]
 
-source_file="res://wardrobe0_Shkaf_Base_color.png"
-dest_files=["res://.godot/imported/wardrobe0_Shkaf_Base_color.png-a2405b414c13a6e1f34c679044c2b9ab.s3tc.ctex"]
+source_file="res://png and other photo file/painting 0_is it worth it_.png"
+dest_files=["res://.godot/imported/painting 0_is it worth it_.png-75715930503dd7e751218fe89a6f5583.s3tc.ctex"]
 
 [params]
 

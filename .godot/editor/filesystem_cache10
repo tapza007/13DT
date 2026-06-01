@@ -1,19 +1,10 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1780015948
-ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780014098::1::::<><><>0<>0<>43d97dfa63e4833c1653bb5c6b7f298d<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-aed5c9c9da4b640f741a7c06a0912c17.s3tc.ctex::
-ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780014098::1::::<><><>0<>0<>ce5a00b4eb32a88822ce0e0282c88d43<>res://.godot/imported/ananas photo 0_Image_0.png-9f37adb0ac20d269c362df8e1fe825f2.s3tc.ctex::
-bloody hand.png::CompressedTexture2D::8217113736148827167::1779186343::1779677936::1::::<><><>0<>0<>9c5190611a83d9068fe438f04e43afa6<>res://.godot/imported/bloody hand.png-be53e8893a1c253542c2b5c212d3468f.ctex::
-Cardboard Box 2_Boxtexture.png::CompressedTexture2D::581466885911512986::1779413263::1780014112::1::::<><><>0<>0<>cfd01513a627c47d0cdf183cde87d0db<>res://.godot/imported/Cardboard Box 2_Boxtexture.png-175eabefc9e77bd09187e8c4512514e6.s3tc.ctex::
+::res://::1780345258
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 painting 0.1.glb::PackedScene::1331264341513471357::1780013731::1780013732::1::::<><><>0<>0<>57049b5bb868e0cd576bd7d73ecd0c47<>res://.godot/imported/painting 0.1.glb-8ac76a504503313a964bcf22fcbcec1d.scn::uid://bce2rk88ryc7q::::res://painting 0_Image_0.png<>uid://bi7foe3patvax::::res://painting 0_is it worth it_.png
-painting 0_Image_0.png::CompressedTexture2D::2536726177021563272::1780013732::1780013732::1::::<><><>0<>0<>a4d2998624636312712649341c14357b<>res://.godot/imported/painting 0_Image_0.png-69ae7c586f4edfc6becf18d3962f86f9.s3tc.ctex::
-painting 0_is it worth it_.png::CompressedTexture2D::3014320361036000483::1780013732::1780013732::1::::<><><>0<>0<>2038da1b4254182a5a070b19a1e19425<>res://.godot/imported/painting 0_is it worth it_.png-8ae2640032d7e4cb38084dc02bf76a74.s3tc.ctex::
-player_3d.tscn::PackedScene::8126263533799219263::1780014191::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://white dot png.webp
+player_3d.tscn::PackedScene::8126263533799219263::1780345252::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
-wardrobe0_Shkaf_Base_color.png::CompressedTexture2D::2801580952853191503::1779839200::1780014133::1::::<><><>0<>0<>6db690c8fe4b70aa09b94df29396bf1a<>res://.godot/imported/wardrobe0_Shkaf_Base_color.png-a2405b414c13a6e1f34c679044c2b9ab.s3tc.ctex::
-white dot png.webp::CompressedTexture2D::5894619805388032261::1779839884::1779839892::1::::<><><>0<>0<>ff840953d23e1b53a58f3ddcbfc40e54<>res://.godot/imported/white dot png.webp-51c933d42f33e214a493fc1347ef8357.ctex::
-wooden planks_Wood_21-128x128.png::CompressedTexture2D::1580125610451435389::1779916329::1780014149::1::::<><><>0<>0<>e6fdffea94a1ccb9923f9c40cdb20884<>res://.godot/imported/wooden planks_Wood_21-128x128.png-e813199b3484228fa404f1ab4534c6cd.s3tc.ctex::
 ::res://blender/::1780014150
 1980's Diner.blend::PackedScene::8838826850020724905::1779838723::1779838974::1::::<><><>0<>0<>34cbbec9dc696ea5068aa5ab48b0d575<>res://.godot/imported/1980's Diner.blend-399eb2be5fb8982884be1671d41dfe5f.scn::
 ananas photo 0.1.glb::PackedScene::280658501651410798::1780014061::1780014099::1::::<><><>0<>0<>40963ffb1f0753fa05198ee21e249514<>res://.godot/imported/ananas photo 0.1.glb-928de8ea6eabfc08c3142c1cc8e436ea.scn::uid://cay3hvupo74au::::res://blender/ananas photo 0_Image_0.png<>uid://crtakn7txkr1q::::res://blender/ananas photo 0_ananas 🤑(pineapple).png
@@ -60,11 +51,21 @@ T_Bed.png::CompressedTexture2D::7024738032563771158::1779411363::1779677936::1::
 ::res://items/::1779838926
 shotgun.tscn::PackedScene::8748829047239981708::1779838926::0::1::::<><><>0<>0<><>::uid://byxyljuqyxolm::::res://blender/shotgun 0.001.blend
 torch.tscn::PackedScene::5693101154304071879::1779838926::0::1::::<><><>0<>0<><>::uid://bio75rwf38b4a::::res://blender/torch0.1.blend
-::res://map/::1780015423
+::res://map/::1780027219
 1980's Diner.tscn::PackedScene::7236408787687845475::1779838971::0::1::::<><><>0<>0<><>::uid://dx6ugl88258qf::::res://blender/1980's Diner.blend
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
 map1.tscn::PackedScene::4773628968044459342::1779918395::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
-player test area.tscn::PackedScene::5441686931037947179::1780015423::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://kegt6adbepdr::::res://furniture/Table1.tscn<>uid://cdvv4w57ijy82::::res://furniture/smallsofa.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://h2agux4afohl::::res://furniture/wardroble.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+player test area.tscn::PackedScene::5441686931037947179::1780027219::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://kegt6adbepdr::::res://furniture/Table1.tscn<>uid://cdvv4w57ijy82::::res://furniture/smallsofa.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://h2agux4afohl::::res://furniture/wardroble.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+::res://png and other photo file/::1780345258
+ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
+ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780345221::1::::<><><>0<>0<>2fdbdedd792296ea50a050eb38b1cbea<>res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex::
+bloody hand.png::CompressedTexture2D::8217113736148827167::1779186343::1780345225::1::::<><><>0<>0<>8e8807b8cc06427dc2e7e1f94b9cf4b9<>res://.godot/imported/bloody hand.png-b535e0193a9a0382f47c80e2e0ec5f89.ctex::
+Cardboard Box 2_Boxtexture.png::CompressedTexture2D::581466885911512986::1779413263::1780345232::1::::<><><>0<>0<>1a62a00f13e7a15fce73445bea010fe1<>res://.godot/imported/Cardboard Box 2_Boxtexture.png-4f6026d9bc448b4a90066fa8afe377a5.s3tc.ctex::
+painting 0_Image_0.png::CompressedTexture2D::2536726177021563272::1780013732::1780345237::1::::<><><>0<>0<>bd5eebad12570f4cac170f0b019b4297<>res://.godot/imported/painting 0_Image_0.png-7b128e9ebf8b9ca15e72cfa698cd2dbb.s3tc.ctex::
+painting 0_is it worth it_.png::CompressedTexture2D::3014320361036000483::1780013732::1780345243::1::::<><><>0<>0<>5e505e39e5410d5b590e40f385c3eb83<>res://.godot/imported/painting 0_is it worth it_.png-75715930503dd7e751218fe89a6f5583.s3tc.ctex::
+wardrobe0_Shkaf_Base_color.png::CompressedTexture2D::2801580952853191503::1779839200::1780345248::1::::<><><>0<>0<>f518dc546600d72aca21da0f4af78750<>res://.godot/imported/wardrobe0_Shkaf_Base_color.png-16693a206b1e4ea80e15e223c447fb1c.s3tc.ctex::
+white dot png.webp::CompressedTexture2D::5894619805388032261::1779839884::1780345252::1::::<><><>0<>0<>e5ec2be093af68e83c454c90cf0d994d<>res://.godot/imported/white dot png.webp-6c897e4b0032da8edb2baa224e3814ac.ctex::
+wooden planks_Wood_21-128x128.png::CompressedTexture2D::1580125610451435389::1779916329::1780345258::1::::<><><>0<>0<>0f8dfc6b86a54485c690a5c4d98f72cf<>res://.godot/imported/wooden planks_Wood_21-128x128.png-6bbaf691e9ab9c3f194d2c865af31e76.s3tc.ctex::
 ::res://sound/::1779677935
 freesound_community-concrete-footsteps-1-6265.mp3::AudioStreamMP3::2293222315832299677::1778789394::1779677935::1::::<><><>0<>0<>a497a4a11259a3b4254ee6c714250c23<>res://.godot/imported/freesound_community-concrete-footsteps-1-6265.mp3-ffc8fdfe039311ddd140a4008d6f62c7.mp3str::
 ::res://textures/::1779838971
@@ -105,6 +106,6 @@ PSX_Wood.png::CompressedTexture2D::9178964182309020342::1779184600::1779838927::
 T_Bed.png::CompressedTexture2D::4209431811810958075::1779411344::1779838971::1::::<><><>0<>0<>966ba7b5cd1372450ec0191b61103e33<>res://.godot/imported/T_Bed.png-3a877fc12d55b9c59e6438a77beedbbe.s3tc.ctex::
 T_Shells.png::CompressedTexture2D::709935968409541668::1778466650::1779677936::1::::<><><>0<>0<>9a1a0e81775c5f7dcf3c2d420476e29e<>res://.godot/imported/T_Shells.png-3dcf2d41b16df4a385a686ca58b7d16d.ctex::
 T_Shotgun512.png::CompressedTexture2D::2058696232557639420::1778466650::1779838927::1::::<><><>0<>0<>cbd239aa5d6f284f0593bee15a3a5467<>res://.godot/imported/T_Shotgun512.png-babf8780055e1570ee23ccae762421eb.s3tc.ctex::
-::res://user interface/::1780013070
-pause menu.tscn::PackedScene::2608978536281035675::1780012819::0::1::::<><><>0<>0<><>::uid://b60kgf8r5ruu2::::res://user interface/pause_menu.gd
-pause_menu.gd::GDScript::4614502479423174107::1780013070::0::1::::<>Control<><>0<>0<><>::
+::res://user interface/::1780017619
+pause menu.tscn::PackedScene::2608978536281035675::1780017619::0::1::::<><><>0<>0<><>::uid://b60kgf8r5ruu2::::res://user interface/pause_menu.gd
+pause_menu.gd::GDScript::4614502479423174107::1780016748::0::1::::<>Control<><>0<>0<><>::

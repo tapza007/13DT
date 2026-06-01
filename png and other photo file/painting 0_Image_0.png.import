@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wroo5i8r7uo8"
-path.s3tc="res://.godot/imported/wooden planks_Wood_21-128x128.png-e813199b3484228fa404f1ab4534c6cd.s3tc.ctex"
+uid="uid://bce2rk88ryc7q"
+path.s3tc="res://.godot/imported/painting 0_Image_0.png-7b128e9ebf8b9ca15e72cfa698cd2dbb.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "3669fbe41aeb02acd13799c628504ac4"
+"md5": "220dcebb50d4d46b1d09bd207d19ae38"
 }
 
 [deps]
 
-source_file="res://wooden planks_Wood_21-128x128.png"
-dest_files=["res://.godot/imported/wooden planks_Wood_21-128x128.png-e813199b3484228fa404f1ab4534c6cd.s3tc.ctex"]
+source_file="res://png and other photo file/painting 0_Image_0.png"
+dest_files=["res://.godot/imported/painting 0_Image_0.png-7b128e9ebf8b9ca15e72cfa698cd2dbb.s3tc.ctex"]
 
 [params]
 

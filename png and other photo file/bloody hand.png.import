@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cp8nr6gomfnbh"
-path="res://.godot/imported/white dot png.webp-51c933d42f33e214a493fc1347ef8357.ctex"
+uid="uid://dpcowscytnpf8"
+path="res://.godot/imported/bloody hand.png-b535e0193a9a0382f47c80e2e0ec5f89.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://white dot png.webp"
-dest_files=["res://.godot/imported/white dot png.webp-51c933d42f33e214a493fc1347ef8357.ctex"]
+source_file="res://png and other photo file/bloody hand.png"
+dest_files=["res://.godot/imported/bloody hand.png-b535e0193a9a0382f47c80e2e0ec5f89.ctex"]
 
 [params]
 

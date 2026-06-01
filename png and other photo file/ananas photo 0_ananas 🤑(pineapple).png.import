@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ijww650hskco"
-path.s3tc="res://.godot/imported/Cardboard Box 2_Boxtexture.png-175eabefc9e77bd09187e8c4512514e6.s3tc.ctex"
+uid="uid://tmh0w3qs8unr"
+path.s3tc="res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "017046e7c09885e71a2d3ee4a22ea3bc"
+"md5": "11491e48baddb2969bcfbe82828a9d09"
 }
 
 [deps]
 
-source_file="res://Cardboard Box 2_Boxtexture.png"
-dest_files=["res://.godot/imported/Cardboard Box 2_Boxtexture.png-175eabefc9e77bd09187e8c4512514e6.s3tc.ctex"]
+source_file="res://png and other photo file/ananas photo 0_ananas 🤑(pineapple).png"
+dest_files=["res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex"]
 
 [params]
 

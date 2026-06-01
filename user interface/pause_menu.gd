@@ -6,13 +6,16 @@ func _ready() -> void:
 
 func resume():
 	get_tree().paused = false
+	hide()
 
 
 func pause():
 	get_tree().paused = true
+	visible = true
 
-func testEsc():
-	if Input.is_action_just_pressed("ui_cancel") and get_tree().paused:
+
+func _process(_delta: float) -> void:
+	if Input.is_action_just_pressed("ui_cancel") and not get_tree().paused:
 		pause()
 	elif Input.is_action_just_pressed("ui_cancel") and get_tree().paused:
 		resume()

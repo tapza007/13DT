@@ -2,24 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bce2rk88ryc7q"
-path.s3tc="res://.godot/imported/painting 0_Image_0.png-69ae7c586f4edfc6becf18d3962f86f9.s3tc.ctex"
+uid="uid://cp8nr6gomfnbh"
+path="res://.godot/imported/white dot png.webp-6c897e4b0032da8edb2baa224e3814ac.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
-}
-generator_parameters={
-"md5": "220dcebb50d4d46b1d09bd207d19ae38"
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://painting 0_Image_0.png"
-dest_files=["res://.godot/imported/painting 0_Image_0.png-69ae7c586f4edfc6becf18d3962f86f9.s3tc.ctex"]
+source_file="res://png and other photo file/white dot png.webp"
+dest_files=["res://.godot/imported/white dot png.webp-6c897e4b0032da8edb2baa224e3814ac.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -27,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -41,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1

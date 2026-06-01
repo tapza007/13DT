@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://tmh0w3qs8unr"
-path.s3tc="res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-aed5c9c9da4b640f741a7c06a0912c17.s3tc.ctex"
+uid="uid://b2txii03pw3rx"
+path.s3tc="res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "11491e48baddb2969bcfbe82828a9d09"
+"md5": "220dcebb50d4d46b1d09bd207d19ae38"
 }
 
 [deps]
 
-source_file="res://ananas photo 0_ananas 🤑(pineapple).png"
-dest_files=["res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-aed5c9c9da4b640f741a7c06a0912c17.s3tc.ctex"]
+source_file="res://png and other photo file/ananas photo 0_Image_0.png"
+dest_files=["res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex"]
 
 [params]
 
