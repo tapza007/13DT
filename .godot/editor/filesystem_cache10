@@ -1,14 +1,14 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1780620909
+::res://::1780885440
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 inside hotel 0.00001.glb::PackedScene::3871718221495029394::1780620908::1780620909::1::::<><><>0<>0<>1ee6eca19f1a80a719cf728049ef2c9c<>res://.godot/imported/inside hotel 0.00001.glb-61c30fb37edc3939cd7e8f6bc19ac1e5.scn::uid://bp5mkfsc3wx0r::::res://inside hotel 0_BR_1.jpg<>uid://csqg0fldfpaib::::res://inside hotel 0_Fabric023.png
+inside hotel 0_BR_1.jpg::CompressedTexture2D::3501931423290037231::1780620908::1780620909::1::::<><><>0<>0<>2e5aae23d69ba328928b8f4e01cf53ea<>res://.godot/imported/inside hotel 0_BR_1.jpg-553c5d6c59b92043cedafe98c2e0460b.s3tc.ctex::
+inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::1780620909::1780620909::1::::<><><>0<>0<>f589d2cf027620e94175978604704165<>res://.godot/imported/inside hotel 0_Fabric023.png-93c1c265a4bff2539e3cf607a7d35328.s3tc.ctex::
 Nightstand_nightstand1.png::CompressedTexture2D::1661835999239256960::1780444054::1780444088::1::::<><><>0<>0<>811be3d87b49a1a5626daeb00b95b192<>res://.godot/imported/Nightstand_nightstand1.png-486470c74f193b8d7b8953c15dcb9375.s3tc.ctex::
 painting 0.1.glb::PackedScene::1331264341513471357::1780013731::1780013732::1::::<><><>0<>0<>57049b5bb868e0cd576bd7d73ecd0c47<>res://.godot/imported/painting 0.1.glb-8ac76a504503313a964bcf22fcbcec1d.scn::uid://bce2rk88ryc7q::::res://painting 0_Image_0.png<>uid://bi7foe3patvax::::res://painting 0_is it worth it_.png
 player_3d.tscn::PackedScene::8126263533799219263::1780616903::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
-inside hotel 0_BR_1.jpg::CompressedTexture2D::3501931423290037231::1780620908::1780620909::1::::<><><>0<>0<>2e5aae23d69ba328928b8f4e01cf53ea<>res://.godot/imported/inside hotel 0_BR_1.jpg-553c5d6c59b92043cedafe98c2e0460b.s3tc.ctex::
-inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::1780620909::1780620909::1::::<><><>0<>0<>f589d2cf027620e94175978604704165<>res://.godot/imported/inside hotel 0_Fabric023.png-93c1c265a4bff2539e3cf607a7d35328.s3tc.ctex::
 ::res://addons/::1780524162
 ::res://addons/roommate/::1780524163
 editor_actions.gd::GDScript::8483746565009605154::1780524163::0::1::::<>RefCounted<><>0<>1<><>::
@@ -133,9 +133,9 @@ box1.tscn::PackedScene::834890309991223258::1780014111::0::1::::<><><>0<>0<><>::
 door1.tscn::PackedScene::2419686006839420933::1779838950::0::1::::<><><>0<>0<><>::uid://cw32k7bp6uin::::res://blender/door0.001.blend
 nightstand.tscn::PackedScene::7666782972529214381::1780444108::0::1::::<><><>0<>0<><>::uid://bduf80f7brouy::::res://blender/Nightstand.glb
 painting1.tscn::PackedScene::461615264434644932::1780013774::0::1::::<><><>0<>0<><>::uid://s74y17wk6vgf::::res://painting 0.1.glb
-wardroble2.tscn::PackedScene::842966378371774919::1780444200::0::1::::<><><>0<>0<><>::uid://y2m0fqs38al::::res://blender/wardrobe 0.2.glb
 smallsofa.tscn::PackedScene::5028087879329734821::1779838926::0::1::::<><><>0<>0<><>::uid://cgvnpucsti2ra::::res://blender/smallsofa.blend
 Table1.tscn::PackedScene::710545807799026499::1779838926::0::1::::<><><>0<>0<><>::uid://c3jwk538jatt4::::res://blender/Table0.0002.blend
+wardroble2.tscn::PackedScene::842966378371774919::1780444200::0::1::::<><><>0<>0<><>::uid://y2m0fqs38al::::res://blender/wardrobe 0.2.glb
 wardroble.tscn::PackedScene::547071906904614713::1780014132::0::1::::<><><>0<>0<><>::uid://dximwtllo100l::::res://blender/wardrobe0.1.glb
 wooden planks.tscn::PackedScene::3799873980125357260::1780014149::0::1::::<><><>0<>0<><>::uid://ryhbw7cu4lii::::res://blender/wooden planks.glb
 ::res://furniture/textures/::1780013648
@@ -144,12 +144,13 @@ T_Bed.png::CompressedTexture2D::7024738032563771158::1779411363::1779677936::1::
 ::res://items/::1779838926
 shotgun.tscn::PackedScene::8748829047239981708::1779838926::0::1::::<><><>0<>0<><>::uid://byxyljuqyxolm::::res://blender/shotgun 0.001.blend
 torch.tscn::PackedScene::5693101154304071879::1779838926::0::1::::<><><>0<>0<><>::uid://bio75rwf38b4a::::res://blender/torch0.1.blend
-::res://map/::1780620804
+::res://map/::1780885281
 1980's Diner.tscn::PackedScene::7236408787687845475::1779838971::0::1::::<><><>0<>0<><>::uid://dx6ugl88258qf::::res://blender/1980's Diner.blend
+cave.tscn::PackedScene::6307947661212114997::1780620942::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://d0gcfd3ck4me0::::res://addons/roommate/nodes/root.gd<>uid://cnd1sre1bf0kx::::res://items/torch.tscn<>uid://bnhe6mvy3h2q2::::res://addons/roommate/nodes/space.gd<>uid://bbhljl53ag4ya::::res://addons/roommate/defaults/default_material.tres
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
 map1.tscn::PackedScene::4773628968044459342::1779918395::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
+maptest 2.tscn::PackedScene::5097824920126092925::1780885281::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://c57y3ttf0ia6m::::res://furniture/ananas photo.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://gtu0a1jb5mhg::::res://furniture/painting1.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://dhh32brpel8ov::::res://furniture/nightstand.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 player test area.tscn::PackedScene::5441686931037947179::1780620168::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://kegt6adbepdr::::res://furniture/Table1.tscn<>uid://cdvv4w57ijy82::::res://furniture/smallsofa.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://h2agux4afohl::::res://furniture/wardroble.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn<>uid://y2m0fqs38al::::res://blender/wardrobe 0.2.glb<>uid://bduf80f7brouy::::res://blender/Nightstand.glb
-cave.tscn::PackedScene::6307947661212114997::1780620804::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://d0gcfd3ck4me0::::res://addons/roommate/nodes/root.gd<>uid://cnd1sre1bf0kx::::res://items/torch.tscn<>uid://bnhe6mvy3h2q2::::res://addons/roommate/nodes/space.gd<>uid://bbhljl53ag4ya::::res://addons/roommate/defaults/default_material.tres<>uid://scsy7s1s5lio::::res://inside hotel 0.00001.blend
 ::res://png and other photo file/::1780443838
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
 ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780345221::1::::<><><>0<>0<>2fdbdedd792296ea50a050eb38b1cbea<>res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex::
