@@ -1,7 +1,10 @@
+res://addons/roommate/nodes/space.gd
+CSGMesh3D
+SpotLight3D
+WorldEnvironment
 CanvasLayer
 Button
 VBoxContainer
 PanelContainer
-CSGMesh3D
 TextureRect
 Control

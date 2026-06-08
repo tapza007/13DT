@@ -10,7 +10,8 @@
 			"nodes":[
 				0,
 				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -46,6 +47,15 @@
 		{
 			"mesh":1,
 			"name":"floor-col"
+		},
+		{
+			"mesh":2,
+			"name":"Cube",
+			"translation":[
+				0,
+				11.866435050964355,
+				0
+			]
 		}
 	],
 	"materials":[
@@ -53,12 +63,14 @@
 			"doubleSided":true,
 			"name":"Material.001",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0.800000011920929,
-					0.800000011920929,
-					0.800000011920929,
-					1
-				],
+				"metallicFactor":0,
+				"roughnessFactor":0.5
+			}
+		},
+		{
+			"doubleSided":true,
+			"name":"Material",
+			"pbrMetallicRoughness":{
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -88,6 +100,21 @@
 						"NORMAL":5,
 						"TEXCOORD_0":6,
 						"TANGENT":7
+					},
+					"indices":8,
+					"material":1
+				}
+			]
+		},
+		{
+			"name":"Cube.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":9,
+						"NORMAL":10,
+						"TEXCOORD_0":11,
+						"TANGENT":12
 					},
 					"indices":8
 				}
@@ -168,6 +195,40 @@
 			"componentType":5123,
 			"count":36,
 			"type":"SCALAR"
+		},
+		{
+			"bufferView":9,
+			"componentType":5126,
+			"count":24,
+			"max":[
+				47.55480194091797,
+				-6.327465057373047,
+				148.96026611328125
+			],
+			"min":[
+				-47.55480194091797,
+				-8.327465057373047,
+				-191.33694458007812
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":10,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":11,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":12,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC4"
 		}
 	],
 	"bufferViews":[
@@ -224,11 +285,35 @@
 			"byteLength":72,
 			"byteOffset":147456,
 			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":147528,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":147816,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":192,
+			"byteOffset":148104,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":384,
+			"byteOffset":148296,
+			"target":34962
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":147528,
+			"byteLength":148680,
 			"uri":"inside%20hotel%200.00001-e8e6eb9f69941d2263c732c565bf34ed.bin"
 		}
 	]

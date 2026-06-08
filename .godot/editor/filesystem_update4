@@ -2,3 +2,7 @@ res://map/player test area.tscn
 res://user interface/pause_menu.gd
 res://user interface/pause menu.tscn
 res://player_3d.tscn
+res://furniture/nightstand.tscn
+res://map/cave.tscn
+res://addons/roommate/defaults/default_setting_values.tres
+res://map/maptest 2.tscn

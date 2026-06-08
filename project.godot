@@ -14,6 +14,10 @@ config/name="Year 13 DT GAME"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/roommate/plugin.cfg")
+
 [input]
 
 ui_left={
