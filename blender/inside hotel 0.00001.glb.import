@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://d87n0vfjfdcg"
-path="res://.godot/imported/ananas photo 0.1.glb-928de8ea6eabfc08c3142c1cc8e436ea.scn"
+uid="uid://bvfqvsi3tjh83"
+path="res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn"
 
 [deps]
 
-source_file="res://blender/ananas photo 0.1.glb"
-dest_files=["res://.godot/imported/ananas photo 0.1.glb-928de8ea6eabfc08c3142c1cc8e436ea.scn"]
+source_file="res://blender/inside hotel 0.00001.glb"
+dest_files=["res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn"]
 
 [params]
 

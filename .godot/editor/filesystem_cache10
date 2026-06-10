@@ -1,11 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1780885440
+::res://::1781049821
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-inside hotel 0.00001.glb::PackedScene::3871718221495029394::1780620908::1780620909::1::::<><><>0<>0<>1ee6eca19f1a80a719cf728049ef2c9c<>res://.godot/imported/inside hotel 0.00001.glb-61c30fb37edc3939cd7e8f6bc19ac1e5.scn::uid://bp5mkfsc3wx0r::::res://inside hotel 0_BR_1.jpg<>uid://csqg0fldfpaib::::res://inside hotel 0_Fabric023.png
-inside hotel 0_BR_1.jpg::CompressedTexture2D::3501931423290037231::1780620908::1780620909::1::::<><><>0<>0<>2e5aae23d69ba328928b8f4e01cf53ea<>res://.godot/imported/inside hotel 0_BR_1.jpg-553c5d6c59b92043cedafe98c2e0460b.s3tc.ctex::
-inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::1780620909::1780620909::1::::<><><>0<>0<>f589d2cf027620e94175978604704165<>res://.godot/imported/inside hotel 0_Fabric023.png-93c1c265a4bff2539e3cf607a7d35328.s3tc.ctex::
-Nightstand_nightstand1.png::CompressedTexture2D::1661835999239256960::1780444054::1780444088::1::::<><><>0<>0<>811be3d87b49a1a5626daeb00b95b192<>res://.godot/imported/Nightstand_nightstand1.png-486470c74f193b8d7b8953c15dcb9375.s3tc.ctex::
 painting 0.1.glb::PackedScene::1331264341513471357::1780013731::1780013732::1::::<><><>0<>0<>57049b5bb868e0cd576bd7d73ecd0c47<>res://.godot/imported/painting 0.1.glb-8ac76a504503313a964bcf22fcbcec1d.scn::uid://bce2rk88ryc7q::::res://painting 0_Image_0.png<>uid://bi7foe3patvax::::res://painting 0_is it worth it_.png
 player_3d.tscn::PackedScene::8126263533799219263::1780616903::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
@@ -62,9 +58,9 @@ transform2d_value_setter.gd::GDScript::6165975553754279626::1780524163::0::1::::
 transform3d_value_setter.gd::GDScript::6363159238716938542::1780524163::0::1::::<><><>0<>1<><>::
 value_setter.gd::GDScript::4258809054055780444::1780524163::0::1::::<>RefCounted<><>0<>1<><>::
 vector3_value_setter.gd::GDScript::1029832155048743086::1780524163::0::1::::<><><>0<>1<><>::
-::res://addons/roommate/defaults/::1780524430
+::res://addons/roommate/defaults/::1780886042
 default_material.tres::StandardMaterial3D::2471744756048573140::1780524163::0::1::::<><><>0<>0<><>::uid://h1srlkjrdyal::::res://addons/roommate/defaults/default_texture.svg
-default_setting_values.tres::Resource::1258702046113909587::1780524430::0::1::::<><><>0<>0<><>::uid://bvy7qjgd45gll::::res://addons/roommate/resources/default_setting_values.gd
+default_setting_values.tres::Resource::1258702046113909587::1780886042::0::1::::<><><>0<>0<><>::uid://bvy7qjgd45gll::::res://addons/roommate/resources/default_setting_values.gd
 default_texture.svg::CompressedTexture2D::546119585074638387::1780524163::1780524164::1::::<><><>0<>0<>f11c60ac8cef20772037b70a14d0a4ce<>res://.godot/imported/default_texture.svg-2c4d0f7292db0e4afcfabdf85433cf2d.ctex::
 ::res://addons/roommate/gizmos/::1780524163
 area_edit_gizmo.gd::GDScript::6974139463805146430::1780524163::0::1::::<>EditorNode3DGizmo<><>0<>1<><>::
@@ -80,77 +76,36 @@ space.svg::CompressedTexture2D::1773345254800789278::1780524163::1780524164::1::
 style.svg::CompressedTexture2D::6172665933905085432::1780524163::1780524164::1::::<><><>0<>0<>abc13a56bb18c1c956f045567a1fcea1<>res://.godot/imported/style.svg-bf76658b45878100e6c56874e29e9fc5.ctex::
 styler.svg::CompressedTexture2D::4015681614933622298::1780524163::1780524164::1::::<><><>0<>0<>d33ac7418a93fb15fbf49527521e8037<>res://.godot/imported/styler.svg-0db263fc780cbdcaf492b137614a9077.ctex::
 ::res://addons/roommate/nodes/::1780524163
-blocks_area.gd::GDScript::7327290570181792213::1780524163::0::1::::RoommateBlocksArea<>RoommateStyler<>res://addons/roommate/icons/blocks_area.svg<>0<>1<><>::
-oblique.gd::GDScript::1397764147591359098::1780524163::0::1::::RoommateOblique<>RoommateBlocksArea<>res://addons/roommate/icons/oblique.svg<>0<>1<><>::
-out_of_bounds.gd::GDScript::575413876055929819::1780524163::0::1::::RoommateOutOfBounds<>RoommateBlocksArea<>res://addons/roommate/icons/out_of_bounds.svg<>0<>1<><>::
-root.gd::GDScript::8926499972439490969::1780524163::0::1::::RoommateRoot<>Node3D<>res://addons/roommate/icons/root.svg<>0<>1<><>::
-space.gd::GDScript::3313625186697327071::1780524163::0::1::::RoommateSpace<>RoommateBlocksArea<>res://addons/roommate/icons/space.svg<>0<>1<><>::
-styler.gd::GDScript::6557923394998123495::1780524163::0::1::::RoommateStyler<>Node3D<>res://addons/roommate/icons/styler.svg<>0<>1<><>::
+blocks_area.gd::GDScript::7327290570181792213::1780524163::0::1::::RoommateBlocksArea<>RoommateStyler<><>0<>1<><>::
+oblique.gd::GDScript::1397764147591359098::1780524163::0::1::::RoommateOblique<>RoommateBlocksArea<><>0<>1<><>::
+out_of_bounds.gd::GDScript::575413876055929819::1780524163::0::1::::RoommateOutOfBounds<>RoommateBlocksArea<><>0<>1<><>::
+root.gd::GDScript::8926499972439490969::1780524163::0::1::::RoommateRoot<>Node3D<><>0<>1<><>::
+space.gd::GDScript::3313625186697327071::1780524163::0::1::::RoommateSpace<>RoommateBlocksArea<><>0<>1<><>::
+styler.gd::GDScript::6557923394998123495::1780524163::0::1::::RoommateStyler<>Node3D<><>0<>1<><>::
 ::res://addons/roommate/resources/::1780524163
 default_setting_values.gd::GDScript::3911903464815445177::1780524163::0::1::::<>Resource<><>0<>1<><>::
 internal_style.gd::GDScript::4539256703448130618::1780524163::0::1::::<>RoommateStyle<><>0<>1<><>::
 simple_ruleset.gd::GDScript::5603137656715477622::1780524163::0::1::::RoommateSimpleRuleset<>Resource<><>0<>1<><>::
-simple_style.gd::GDScript::3013601321346578244::1780524163::0::1::::RoommateSimpleStyle<>RoommateStyle<>res://addons/roommate/icons/style.svg<>0<>1<><>::
-style.gd::GDScript::8650363713329687003::1780524163::0::1::::RoommateStyle<>Resource<>res://addons/roommate/icons/style.svg<>0<>1<><>::
-::res://blender/::1780444088
-1980's Diner.blend::PackedScene::8838826850020724905::1779838723::1779838974::1::::<><><>0<>0<>34cbbec9dc696ea5068aa5ab48b0d575<>res://.godot/imported/1980's Diner.blend-399eb2be5fb8982884be1671d41dfe5f.scn::
-ananas photo 0.1.glb::PackedScene::280658501651410798::1780014061::1780014099::1::::<><><>0<>0<>40963ffb1f0753fa05198ee21e249514<>res://.godot/imported/ananas photo 0.1.glb-928de8ea6eabfc08c3142c1cc8e436ea.scn::uid://cay3hvupo74au::::res://blender/ananas photo 0_Image_0.png<>uid://crtakn7txkr1q::::res://blender/ananas photo 0_ananas 🤑(pineapple).png
+simple_style.gd::GDScript::3013601321346578244::1780524163::0::1::::RoommateSimpleStyle<>RoommateStyle<><>0<>1<><>::
+style.gd::GDScript::8650363713329687003::1780524163::0::1::::RoommateStyle<>Resource<><>0<>1<><>::
+::res://blender/::1781049821
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::6005293477630652904::1780014099::1780014099::1::::<><><>0<>0<>2ca4a9d1f55a7f8b5960761dd64621aa<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-29c057a0b25029338bc34fc3acbc28e1.s3tc.ctex::
-ananas photo 0_Image_0.png::CompressedTexture2D::4824100144426404680::1780014098::1780014099::1::::<><><>0<>0<>7acd69d69e818bec157cd9185ecd852c<>res://.godot/imported/ananas photo 0_Image_0.png-9df23bc011e0d4170239e4bcef10b634.s3tc.ctex::
-bed0.1.blend::PackedScene::3091443320772812511::1779838723::1779838974::1::::<><><>0<>0<>3ecaa643c1b88f21e0e6c6f6837717f7<>res://.godot/imported/bed0.1.blend-fdfd11b0ff561aca922646ac3e3ccd87.scn::uid://cyygqduvls8vn::::res://blender/textures/T_Bed.png
-bloodhand0.1.blend::PackedScene::530409700786731977::1779838723::1779838974::1::::<><><>0<>0<>8b6a2be4f71a4e9e3c31e1ea9795f8c4<>res://.godot/imported/bloodhand0.1.blend-823aea1ea42252b38f1840b38277d305.scn::
-Cardboard Box3.blend::PackedScene::191509078714907812::1779838723::1779838989::1::::<><><>0<>0<>1f0d7e56c978447044a9fb19b81e5fd5<>res://.godot/imported/Cardboard Box3.blend-03ce35ea8ce99356c51fd8888136715c.scn::
-Cardboard Box 2.blend::PackedScene::5088468152346214412::1779838723::1779838989::1::::<><><>0<>0<>72d15936805551377e99955a2a4ee2fc<>res://.godot/imported/Cardboard Box 2.blend-bed0389c3faa1fc8f644bff10ee6ff71.scn::
-Cardboard Box 2.glb::PackedScene::7605321465516191464::1779413262::1780014113::1::::<><><>0<>0<>ffbec5077ad36110c584d9a23a6b07b2<>res://.godot/imported/Cardboard Box 2.glb-895148ee637575f8a82d0ff564adb6da.scn::uid://4qeqcevkwtek::::res://blender/Cardboard Box 2_Boxtexture.png
-Cardboard Box 2_Boxtexture.png::CompressedTexture2D::2068778062435751758::1780014112::1780014113::1::::<><><>0<>0<>053e018323186925e7bfb3adbba448b5<>res://.godot/imported/Cardboard Box 2_Boxtexture.png-94294cf1e4944961a56493845dde096f.s3tc.ctex::
-Cardboard Box.blend::PackedScene::3765214688627089006::1779838723::1779838999::1::::<><><>0<>0<>b16f1db9fe30c28631f34be85e7b86a9<>res://.godot/imported/Cardboard Box.blend-8faa4d80e211d9966afb34a9dbc93449.scn::
-door0.001.blend::PackedScene::187542864832238069::1779838723::1779838951::1::::<><><>0<>0<>ba6bb7639c62b9dc8821929a2887af34<>res://.godot/imported/door0.001.blend-5e333e467ccfd02d81e2734ecfb56472.scn::
-humanmodel1.blend::PackedScene::5813929203575738615::1779838723::1779838951::1::::<><><>0<>0<>dcf79d42c70f988845b24edb91c47828<>res://.godot/imported/humanmodel1.blend-c3f5e08bbb5856f11327941cdb96cc81.scn::
-Nightstand.glb::PackedScene::2638638608114818256::1780444053::1780444088::1::::<><><>0<>0<>4cea472392f981f57c66b511240ef807<>res://.godot/imported/Nightstand.glb-e7ee5814d4b8a3f945ff6a2ea83f735d.scn::uid://fqspgw7ohgoh::::res://blender/Nightstand_nightstand1.png
-Nightstand_nightstand1.png::CompressedTexture2D::385094305632210963::1780444088::1780444088::1::::<><><>0<>0<>1515b58997f4de16437c41956325fde4<>res://.godot/imported/Nightstand_nightstand1.png-a5b186267b46998b987ea4d21f57a39c.s3tc.ctex::
-shotgun 0.001.blend::PackedScene::4119910975274801138::1779838723::1779838928::1::::<><><>0<>0<>9cba640c40a4b338e35269205e73201d<>res://.godot/imported/shotgun 0.001.blend-411c14118af3efbe12ad3faf69a92998.scn::
-smallsofa.blend::PackedScene::5238143524264375134::1779185844::1779838929::1::::<><><>0<>0<>2cb5841f3a80a13427cf43944b08e09b<>res://.godot/imported/smallsofa.blend-79f01f2e51a9400f408b9e538ed7f5f0.scn::
-Table0.0002.blend::PackedScene::6758063641284004639::1779838723::1779838929::1::::<><><>0<>0<>2c35ded59e2b9622a1c8b9dbbdc44c46<>res://.godot/imported/Table0.0002.blend-b5b856fb6743a8012f8ddb0f103e1521.scn::
-torch0.1.blend::PackedScene::2978830166088414022::1779313623::1779838929::1::::<><><>0<>0<>26695735aeaf66ff03b6c2a0968b9e2f<>res://.godot/imported/torch0.1.blend-e3e8094634e20c41ce0e302391a9952d.scn::
-wardrobe0.1.glb::PackedScene::8790889383621682833::1779839199::1780014133::1::::<><><>0<>0<>07290fd9b00aada517cb98e5477d002a<>res://.godot/imported/wardrobe0.1.glb-8acf21c2cbbcb3eed69fcab0c62d25be.scn::uid://dvl736b33gwsf::::res://blender/wardrobe0_Shkaf_Base_color.png
-wardrobe0_Shkaf_Base_color.png::CompressedTexture2D::8657930499849034737::1780014133::1780014133::1::::<><><>0<>0<>223d602e23d69a0ce03b12e49175d778<>res://.godot/imported/wardrobe0_Shkaf_Base_color.png-95c907794ea15bb0d09f22734d153379.s3tc.ctex::
-wardrobe 0.2.glb::PackedScene::51207175988923087::1780443814::1780443830::1::::<><><>0<>0<>7ae4e26cf05e8c05393faa2ac78d632b<>res://.godot/imported/wardrobe 0.2.glb-e403a3d8df423f6970016fc25859bc5e.scn::uid://c51t5gcyxy3rt::::res://blender/wardrobe 0_wood.jpg
-wardrobe 0_wood.jpg::CompressedTexture2D::6933388014164309365::1780443830::1780443830::1::::<><><>0<>0<>8d77c35b40672a2f1c129dfd1cc1e07b<>res://.godot/imported/wardrobe 0_wood.jpg-d8e2b8c59ab74c978a96b5ac2584cecf.s3tc.ctex::
-wooden planks.glb::PackedScene::1243183417753450156::1779916328::1780014149::1::::<><><>0<>0<>a0d1c7ea47f2e0300b8d2683a6ee798f<>res://.godot/imported/wooden planks.glb-a0440367496010dd1244c910bf40e1d9.scn::uid://d1xxxe4nj1ug0::::res://blender/wooden planks_Wood_21-128x128.png
-wooden planks_Wood_21-128x128.png::CompressedTexture2D::9033090493601422709::1780014149::1780014150::1::::<><><>0<>0<>ce2677a37f5c03e17c4716a2aaaea08c<>res://.godot/imported/wooden planks_Wood_21-128x128.png-7a5665b61fff73544d810a0008bfdd7b.s3tc.ctex::
-::res://blender/textures/::1780013652
-Armchair_BaseColor.png::CompressedTexture2D::6156908724566532801::1779838928::1779838935::1::::<><><>0<>0<>2405b905d275ccd3f981421cd14e209a<>res://.godot/imported/Armchair_BaseColor.png-60d4b1ae70b58dbb2c491aef4aa003a7.ctex::
-Image_0.png::CompressedTexture2D::7776429823637253597::1780013651::1780013652::1::::<><><>0<>0<>b5f95e0d3a2df8679bb2efe049b4da30<>res://.godot/imported/Image_0.png-fee9456d1802e98ae36b839944d6ec7f.s3tc.ctex::
-Material_baseColor.png::CompressedTexture2D::8629785787258166602::1779838999::1779839008::1::::<><><>0<>0<>d67065a277343e87c7fa1c40a979ca23<>res://.godot/imported/Material_baseColor.png-2f7c8f61a9b60641c554876219044cd4.ctex::
-PSX_Wood.png::CompressedTexture2D::2434502553734828751::1779838929::1779838935::1::::<><><>0<>0<>aef793c28309cd791486ac101f724a24<>res://.godot/imported/PSX_Wood.png-a30008f4a383e29fc30fdd8c093c74b5.ctex::
-T_Bed.png::CompressedTexture2D::6507311744891219771::1779838974::1779838974::1::::<><><>0<>0<>5a1104d38b1a0ff984f32b5f803c6ad0<>res://.godot/imported/T_Bed.png-e3c696dfe22cd4f4d9d03573bfff4341.s3tc.ctex::
-T_Shells.png::CompressedTexture2D::4336930193306094242::1779838928::1779838935::1::::<><><>0<>0<>f7af9513619d6f13ce6bb16a1885b201<>res://.godot/imported/T_Shells.png-243e7e1b781a1aff80a62388183a6daa.ctex::
-T_Shotgun512.png::CompressedTexture2D::7791833218561446507::1779838928::1779838935::1::::<><><>0<>0<>5857d6aedad2c40a3e574d0b0833725b<>res://.godot/imported/T_Shotgun512.png-da1ba18c15abbe406828878c22197bd4.ctex::
-::res://furniture/::1780444200
-ananas photo.tscn::PackedScene::6946075002268656346::1780014098::0::1::::<><><>0<>0<><>::uid://d87n0vfjfdcg::::res://blender/ananas photo 0.1.glb
-bed0.1.tscn::PackedScene::7015654442822823665::1779838971::0::1::::<><><>0<>0<><>::uid://bkbrvcrx7dvcp::::res://blender/bed0.1.blend
-box1.tscn::PackedScene::834890309991223258::1780014111::0::1::::<><><>0<>0<><>::uid://dgmcseugqreaq::::res://blender/Cardboard Box 2.glb
-door1.tscn::PackedScene::2419686006839420933::1779838950::0::1::::<><><>0<>0<><>::uid://cw32k7bp6uin::::res://blender/door0.001.blend
-nightstand.tscn::PackedScene::7666782972529214381::1780444108::0::1::::<><><>0<>0<><>::uid://bduf80f7brouy::::res://blender/Nightstand.glb
-painting1.tscn::PackedScene::461615264434644932::1780013774::0::1::::<><><>0<>0<><>::uid://s74y17wk6vgf::::res://painting 0.1.glb
-smallsofa.tscn::PackedScene::5028087879329734821::1779838926::0::1::::<><><>0<>0<><>::uid://cgvnpucsti2ra::::res://blender/smallsofa.blend
-Table1.tscn::PackedScene::710545807799026499::1779838926::0::1::::<><><>0<>0<><>::uid://c3jwk538jatt4::::res://blender/Table0.0002.blend
-wardroble2.tscn::PackedScene::842966378371774919::1780444200::0::1::::<><><>0<>0<><>::uid://y2m0fqs38al::::res://blender/wardrobe 0.2.glb
-wardroble.tscn::PackedScene::547071906904614713::1780014132::0::1::::<><><>0<>0<><>::uid://dximwtllo100l::::res://blender/wardrobe0.1.glb
-wooden planks.tscn::PackedScene::3799873980125357260::1780014149::0::1::::<><><>0<>0<><>::uid://ryhbw7cu4lii::::res://blender/wooden planks.glb
-::res://furniture/textures/::1780013648
-Image_0.png::CompressedTexture2D::565651811383195485::1780013627::1780013648::1::::<><><>0<>0<>a6a24c6c86798509756b2981581a50cc<>res://.godot/imported/Image_0.png-6c194291aa94bf57cefd55e5f6712acd.s3tc.ctex::
-T_Bed.png::CompressedTexture2D::7024738032563771158::1779411363::1779677936::1::::<><><>0<>0<>29c6cec9b77693b7f1598576aadd4ae1<>res://.godot/imported/T_Bed.png-3e6dc8c39dfb256085ea73ea6916226a.ctex::
-::res://items/::1779838926
-shotgun.tscn::PackedScene::8748829047239981708::1779838926::0::1::::<><><>0<>0<><>::uid://byxyljuqyxolm::::res://blender/shotgun 0.001.blend
+bed (made by me).blend::PackedScene::6256053278538189221::1781049700::1781049823::1::::<><><>0<>0<>5fdef0a5088c1c857641824a43f03168<>res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn::
+inside hotel 0.00001.glb::PackedScene::3871718221495029394::1780620908::1781049671::1::::<><><>0<>0<>60703c1e37bbe3754ade0229a23b4cc6<>res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn::uid://bp5mkfsc3wx0r::::res://blender/inside hotel 0_BR_1.jpg<>uid://csqg0fldfpaib::::res://blender/inside hotel 0_Fabric023.png
+inside hotel 0_BR_1.jpg::CompressedTexture2D::3501931423290037231::1780620908::1781049671::1::::<><><>0<>0<>a5f0f49ce774d0e633f1c63f5bac2825<>res://.godot/imported/inside hotel 0_BR_1.jpg-fcdaaf66b9279590c7dbdf3bb4d2b0f8.s3tc.ctex::
+inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::1780620909::1781049671::1::::<><><>0<>0<>cead4f819ea17097c53ece57e5d27ba5<>res://.godot/imported/inside hotel 0_Fabric023.png-053cb07a8deeaacff0529565bcc10663.s3tc.ctex::
+::res://blender/textures/::1781049490
+::res://CC0 models/::1780887467
+::res://furniture (I made it)/::1781049821
+bed1.tscn::PackedScene::8012065031401886935::1781049821::0::1::::<><><>0<>0<><>::uid://cveqjvx1edsw0::::res://blender/bed (made by me).blend
+::res://items/::1780887345
 torch.tscn::PackedScene::5693101154304071879::1779838926::0::1::::<><><>0<>0<><>::uid://bio75rwf38b4a::::res://blender/torch0.1.blend
-::res://map/::1780885281
-1980's Diner.tscn::PackedScene::7236408787687845475::1779838971::0::1::::<><><>0<>0<><>::uid://dx6ugl88258qf::::res://blender/1980's Diner.blend
+::res://map/::1781049757
 cave.tscn::PackedScene::6307947661212114997::1780620942::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://d0gcfd3ck4me0::::res://addons/roommate/nodes/root.gd<>uid://cnd1sre1bf0kx::::res://items/torch.tscn<>uid://bnhe6mvy3h2q2::::res://addons/roommate/nodes/space.gd<>uid://bbhljl53ag4ya::::res://addons/roommate/defaults/default_material.tres
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
-map1.tscn::PackedScene::4773628968044459342::1779918395::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
-maptest 2.tscn::PackedScene::5097824920126092925::1780885281::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://c57y3ttf0ia6m::::res://furniture/ananas photo.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://gtu0a1jb5mhg::::res://furniture/painting1.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://dhh32brpel8ov::::res://furniture/nightstand.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
-player test area.tscn::PackedScene::5441686931037947179::1780620168::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://kegt6adbepdr::::res://furniture/Table1.tscn<>uid://cdvv4w57ijy82::::res://furniture/smallsofa.tscn<>uid://c67o2lbtvn818::::res://furniture/bed0.1.tscn<>uid://l5ory1fcufda::::res://furniture/box1.tscn<>uid://baqd40rqfs7oj::::res://furniture/door1.tscn<>uid://h2agux4afohl::::res://furniture/wardroble.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn<>uid://y2m0fqs38al::::res://blender/wardrobe 0.2.glb<>uid://bduf80f7brouy::::res://blender/Nightstand.glb
+map1.tscn::PackedScene::4773628968044459342::1780887197::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
+maptest 2.tscn::PackedScene::5097824920126092925::1781049670::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://blender/inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn
+player test area.tscn::PackedScene::5441686931037947179::1781049757::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 ::res://png and other photo file/::1780443838
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
 ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780345221::1::::<><><>0<>0<>2fdbdedd792296ea50a050eb38b1cbea<>res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex::

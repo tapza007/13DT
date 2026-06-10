@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dx6ugl88258qf"
-path="res://.godot/imported/1980's Diner.blend-399eb2be5fb8982884be1671d41dfe5f.scn"
+uid="uid://cveqjvx1edsw0"
+path="res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn"
 
 [deps]
 
-source_file="res://blender/1980's Diner.blend"
-dest_files=["res://.godot/imported/1980's Diner.blend-399eb2be5fb8982884be1671d41dfe5f.scn"]
+source_file="res://blender/bed (made by me).blend"
+dest_files=["res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn"]
 
 [params]
 

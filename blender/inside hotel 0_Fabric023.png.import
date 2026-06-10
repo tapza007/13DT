@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bp5mkfsc3wx0r"
-path.s3tc="res://.godot/imported/inside hotel 0_BR_1.jpg-553c5d6c59b92043cedafe98c2e0460b.s3tc.ctex"
+uid="uid://csqg0fldfpaib"
+path.s3tc="res://.godot/imported/inside hotel 0_Fabric023.png-053cb07a8deeaacff0529565bcc10663.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "69334a99025b9846c4c4a70786fc3946"
+"md5": "138e14964d7618ea225544ba774497d8"
 }
 
 [deps]
 
-source_file="res://inside hotel 0_BR_1.jpg"
-dest_files=["res://.godot/imported/inside hotel 0_BR_1.jpg-553c5d6c59b92043cedafe98c2e0460b.s3tc.ctex"]
+source_file="res://blender/inside hotel 0_Fabric023.png"
+dest_files=["res://.godot/imported/inside hotel 0_Fabric023.png-053cb07a8deeaacff0529565bcc10663.s3tc.ctex"]
 
 [params]
 
