@@ -1,4 +1,4 @@
-res://addons/roommate/nodes/space.gd
+MeshInstance3D
 CSGMesh3D
 SpotLight3D
 WorldEnvironment

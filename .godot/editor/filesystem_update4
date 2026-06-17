@@ -3,3 +3,9 @@ res://addons/roommate/defaults/default_setting_values.tres
 res://map/map1.tscn
 res://map/player test area.tscn
 res://furniture (I made it)/bed1.tscn
+res://items/camera.tscn
+res://player_3d.tscn
+res://head.gd
+res://user interface/pause_menu.gd
+res://crtforplayer2.gdshader
+res://map/dithering.gdshader

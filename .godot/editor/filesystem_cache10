@@ -1,8 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1781049821
+::res://::1781129234
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-painting 0.1.glb::PackedScene::1331264341513471357::1780013731::1780013732::1::::<><><>0<>0<>57049b5bb868e0cd576bd7d73ecd0c47<>res://.godot/imported/painting 0.1.glb-8ac76a504503313a964bcf22fcbcec1d.scn::uid://bce2rk88ryc7q::::res://painting 0_Image_0.png<>uid://bi7foe3patvax::::res://painting 0_is it worth it_.png
 player_3d.tscn::PackedScene::8126263533799219263::1780616903::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
 ::res://addons/::1780524162
@@ -88,23 +87,25 @@ internal_style.gd::GDScript::4539256703448130618::1780524163::0::1::::<>Roommate
 simple_ruleset.gd::GDScript::5603137656715477622::1780524163::0::1::::RoommateSimpleRuleset<>Resource<><>0<>1<><>::
 simple_style.gd::GDScript::3013601321346578244::1780524163::0::1::::RoommateSimpleStyle<>RoommateStyle<><>0<>1<><>::
 style.gd::GDScript::8650363713329687003::1780524163::0::1::::RoommateStyle<>Resource<><>0<>1<><>::
-::res://blender/::1781049821
+::res://blender/::1781129234
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::6005293477630652904::1780014099::1780014099::1::::<><><>0<>0<>2ca4a9d1f55a7f8b5960761dd64621aa<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-29c057a0b25029338bc34fc3acbc28e1.s3tc.ctex::
-bed (made by me).blend::PackedScene::6256053278538189221::1781049700::1781049823::1::::<><><>0<>0<>5fdef0a5088c1c857641824a43f03168<>res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn::
+bed (made by me).blend::PackedScene::6256053278538189221::1781049700::1781050404::1::::<><><>0<>0<>5fdef0a5088c1c857641824a43f03168<>res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn::
+camera (made by me).blend::PackedScene::3714482721539767297::1781129117::1781129238::1::::<><><>0<>0<>67f0c3d51b5db9f6609b6e1ee3ee67c9<>res://.godot/imported/camera (made by me).blend-db14af5745ecc4a40014eef9b90e5946.scn::
 inside hotel 0.00001.glb::PackedScene::3871718221495029394::1780620908::1781049671::1::::<><><>0<>0<>60703c1e37bbe3754ade0229a23b4cc6<>res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn::uid://bp5mkfsc3wx0r::::res://blender/inside hotel 0_BR_1.jpg<>uid://csqg0fldfpaib::::res://blender/inside hotel 0_Fabric023.png
 inside hotel 0_BR_1.jpg::CompressedTexture2D::3501931423290037231::1780620908::1781049671::1::::<><><>0<>0<>a5f0f49ce774d0e633f1c63f5bac2825<>res://.godot/imported/inside hotel 0_BR_1.jpg-fcdaaf66b9279590c7dbdf3bb4d2b0f8.s3tc.ctex::
 inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::1780620909::1781049671::1::::<><><>0<>0<>cead4f819ea17097c53ece57e5d27ba5<>res://.godot/imported/inside hotel 0_Fabric023.png-053cb07a8deeaacff0529565bcc10663.s3tc.ctex::
 ::res://blender/textures/::1781049490
 ::res://CC0 models/::1780887467
-::res://furniture (I made it)/::1781049821
-bed1.tscn::PackedScene::8012065031401886935::1781049821::0::1::::<><><>0<>0<><>::uid://cveqjvx1edsw0::::res://blender/bed (made by me).blend
-::res://items/::1780887345
+::res://furniture (I made it)/::1781050410
+bed1.tscn::PackedScene::8012065031401886935::1781050410::0::1::::<><><>0<>0<><>::uid://cveqjvx1edsw0::::res://blender/bed (made by me).blend
+::res://items/::1781129234
+camera.tscn::PackedScene::1335252153941234078::1781129234::0::1::::<><><>0<>0<><>::uid://bs6k8t21syl42::::res://blender/camera (made by me).blend
 torch.tscn::PackedScene::5693101154304071879::1779838926::0::1::::<><><>0<>0<><>::uid://bio75rwf38b4a::::res://blender/torch0.1.blend
-::res://map/::1781049757
+::res://map/::1781050440
 cave.tscn::PackedScene::6307947661212114997::1780620942::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://d0gcfd3ck4me0::::res://addons/roommate/nodes/root.gd<>uid://cnd1sre1bf0kx::::res://items/torch.tscn<>uid://bnhe6mvy3h2q2::::res://addons/roommate/nodes/space.gd<>uid://bbhljl53ag4ya::::res://addons/roommate/defaults/default_material.tres
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
 map1.tscn::PackedScene::4773628968044459342::1780887197::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
-maptest 2.tscn::PackedScene::5097824920126092925::1781049670::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://blender/inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn
+maptest 2.tscn::PackedScene::5097824920126092925::1781050440::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://blender/inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn
 player test area.tscn::PackedScene::5441686931037947179::1781049757::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 ::res://png and other photo file/::1780443838
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
