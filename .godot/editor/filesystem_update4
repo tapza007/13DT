@@ -9,3 +9,5 @@ res://head.gd
 res://user interface/pause_menu.gd
 res://crtforplayer2.gdshader
 res://map/dithering.gdshader
+res://user interface/pause menu.tscn
+res://items/test area 2.tscn

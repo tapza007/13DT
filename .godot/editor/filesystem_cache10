@@ -1,8 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1781129234
+::res://::1782337628
+crtforplayer2.gdshader::Shader::6161431806544540407::1781654692::0::1::::<><><>0<>0<><>::
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
+head.gd::GDScript::7716670156734476911::1781492263::0::1::::<>Node3D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-player_3d.tscn::PackedScene::8126263533799219263::1780616903::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dgnky0rr1auiy::::res://crtforplayer.gdshader<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
+map3 (made by me).glb::PackedScene::6790799765116515548::1782337628::1782337629::1::::<><><>0<>0<>4b6487eb29cc5a89ed646e1a2df23d40<>res://.godot/imported/map3 (made by me).glb-7611b2d4eb93f930c8f2b9d665670efd.scn::
+player_3d.tscn::PackedScene::8126263533799219263::1782259003::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp<>uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
 ::res://addons/::1780524162
 ::res://addons/roommate/::1780524163
@@ -87,7 +90,7 @@ internal_style.gd::GDScript::4539256703448130618::1780524163::0::1::::<>Roommate
 simple_ruleset.gd::GDScript::5603137656715477622::1780524163::0::1::::RoommateSimpleRuleset<>Resource<><>0<>1<><>::
 simple_style.gd::GDScript::3013601321346578244::1780524163::0::1::::RoommateSimpleStyle<>RoommateStyle<><>0<>1<><>::
 style.gd::GDScript::8650363713329687003::1780524163::0::1::::RoommateStyle<>Resource<><>0<>1<><>::
-::res://blender/::1781129234
+::res://blender/::1781129238
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::6005293477630652904::1780014099::1780014099::1::::<><><>0<>0<>2ca4a9d1f55a7f8b5960761dd64621aa<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-29c057a0b25029338bc34fc3acbc28e1.s3tc.ctex::
 bed (made by me).blend::PackedScene::6256053278538189221::1781049700::1781050404::1::::<><><>0<>0<>5fdef0a5088c1c857641824a43f03168<>res://.godot/imported/bed (made by me).blend-730ccb50dbbd8d3610e7304c4dac93cd.scn::
 camera (made by me).blend::PackedScene::3714482721539767297::1781129117::1781129238::1::::<><><>0<>0<>67f0c3d51b5db9f6609b6e1ee3ee67c9<>res://.godot/imported/camera (made by me).blend-db14af5745ecc4a40014eef9b90e5946.scn::
@@ -98,15 +101,17 @@ inside hotel 0_Fabric023.png::CompressedTexture2D::6069679823493139705::17806209
 ::res://CC0 models/::1780887467
 ::res://furniture (I made it)/::1781050410
 bed1.tscn::PackedScene::8012065031401886935::1781050410::0::1::::<><><>0<>0<><>::uid://cveqjvx1edsw0::::res://blender/bed (made by me).blend
-::res://items/::1781129234
+::res://items/::1782336737
 camera.tscn::PackedScene::1335252153941234078::1781129234::0::1::::<><><>0<>0<><>::uid://bs6k8t21syl42::::res://blender/camera (made by me).blend
+test area 2.tscn::PackedScene::968428565427179149::1782336737::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://b1h66g24n7i1g::::res://4 tower test (made by me).glb
 torch.tscn::PackedScene::5693101154304071879::1779838926::0::1::::<><><>0<>0<><>::uid://bio75rwf38b4a::::res://blender/torch0.1.blend
-::res://map/::1781050440
+::res://map/::1781831881
 cave.tscn::PackedScene::6307947661212114997::1780620942::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://d0gcfd3ck4me0::::res://addons/roommate/nodes/root.gd<>uid://cnd1sre1bf0kx::::res://items/torch.tscn<>uid://bnhe6mvy3h2q2::::res://addons/roommate/nodes/space.gd<>uid://bbhljl53ag4ya::::res://addons/roommate/defaults/default_material.tres
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
+dithering.gdshader::Shader::5832626522538652151::1781655600::0::1::::<><><>0<>0<><>::
 map1.tscn::PackedScene::4773628968044459342::1780887197::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
-maptest 2.tscn::PackedScene::5097824920126092925::1781050440::0::1::::<><><>0<>0<><>::uid://bvfqvsi3tjh83::::res://blender/inside hotel 0.00001.glb<>uid://dn1omxl5bbj5h::::res://player_3d.tscn
-player test area.tscn::PackedScene::5441686931037947179::1781049757::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+maptest 2.tscn::PackedScene::5097824920126092925::1781831881::0::1::::<><><>0<>0<><>::uid://dgxcniurhmfox::::res://inside hotel 0.00001.blend<>uid://dn1omxl5bbj5h::::res://player_3d.tscn
+player test area.tscn::PackedScene::5441686931037947179::1781655973::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 ::res://png and other photo file/::1780443838
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
 ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780345221::1::::<><><>0<>0<>2fdbdedd792296ea50a050eb38b1cbea<>res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex::
@@ -158,6 +163,6 @@ PSX_Wood.png::CompressedTexture2D::9178964182309020342::1779184600::1779838927::
 T_Bed.png::CompressedTexture2D::4209431811810958075::1779411344::1779838971::1::::<><><>0<>0<>966ba7b5cd1372450ec0191b61103e33<>res://.godot/imported/T_Bed.png-3a877fc12d55b9c59e6438a77beedbbe.s3tc.ctex::
 T_Shells.png::CompressedTexture2D::709935968409541668::1778466650::1779677936::1::::<><><>0<>0<>9a1a0e81775c5f7dcf3c2d420476e29e<>res://.godot/imported/T_Shells.png-3dcf2d41b16df4a385a686ca58b7d16d.ctex::
 T_Shotgun512.png::CompressedTexture2D::2058696232557639420::1778466650::1779838927::1::::<><><>0<>0<>cbd239aa5d6f284f0593bee15a3a5467<>res://.godot/imported/T_Shotgun512.png-babf8780055e1570ee23ccae762421eb.s3tc.ctex::
-::res://user interface/::1780017619
-pause menu.tscn::PackedScene::2608978536281035675::1780017619::0::1::::<><><>0<>0<><>::uid://b60kgf8r5ruu2::::res://user interface/pause_menu.gd
-pause_menu.gd::GDScript::4614502479423174107::1780016748::0::1::::<>Control<><>0<>0<><>::
+::res://user interface/::1782260718
+pause menu.tscn::PackedScene::2608978536281035675::1781841801::0::1::::<><><>0<>0<><>::uid://b60kgf8r5ruu2::::res://user interface/pause_menu.gd
+pause_menu.gd::GDScript::4614502479423174107::1781841801::0::1::::<>Control<><>0<>0<><>::

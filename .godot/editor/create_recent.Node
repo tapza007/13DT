@@ -1,7 +1,7 @@
-MeshInstance3D
-CSGMesh3D
-SpotLight3D
 WorldEnvironment
+CSGMesh3D
+MeshInstance3D
+SpotLight3D
 CanvasLayer
 Button
 VBoxContainer
