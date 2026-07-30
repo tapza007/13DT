@@ -1,10 +1,15 @@
+CollisionShape3D
+Area3D
+AnimationPlayer
+AudioStreamPlayer
 WorldEnvironment
+RayCast3D
 CSGMesh3D
 MeshInstance3D
+Camera3D
 SpotLight3D
 CanvasLayer
 Button
 VBoxContainer
 PanelContainer
 TextureRect
-Control

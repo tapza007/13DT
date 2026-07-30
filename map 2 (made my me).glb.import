@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bvfqvsi3tjh83"
-path="res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn"
+uid="uid://cogjxbwunvy8n"
+path="res://.godot/imported/map 2 (made my me).glb-2855229c91f7ff99b789b31a744c8482.scn"
 
 [deps]
 
-source_file="res://blender/inside hotel 0.00001.glb"
-dest_files=["res://.godot/imported/inside hotel 0.00001.glb-4a2f0844ef8da3bb1ae1a0e49fc31f9a.scn"]
+source_file="res://map 2 (made my me).glb"
+dest_files=["res://.godot/imported/map 2 (made my me).glb-2855229c91f7ff99b789b31a744c8482.scn"]
 
 [params]
 

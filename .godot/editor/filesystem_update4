@@ -1,13 +1,13 @@
 res://map/maptest 2.tscn
 res://addons/roommate/defaults/default_setting_values.tres
-res://map/map1.tscn
-res://map/player test area.tscn
-res://furniture (I made it)/bed1.tscn
-res://items/camera.tscn
-res://player_3d.tscn
-res://head.gd
-res://user interface/pause_menu.gd
 res://crtforplayer2.gdshader
 res://map/dithering.gdshader
-res://user interface/pause menu.tscn
+res://map/map5.tscn
 res://items/test area 2.tscn
+res://map/player test area.tscn
+res://player_3d.tscn
+res://blender/inside hotel 0_BR_1.jpg
+res://map/map6.tscn
+res://user interface/dead menu.tscn
+res://game function/killzone_(try_to_find_a_loophole).gd
+res://game function/dead area 1 (try to find a loophole).tscn
