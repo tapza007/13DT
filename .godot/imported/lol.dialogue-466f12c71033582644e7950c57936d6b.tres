@@ -1,0 +1,52 @@
+[gd_resource type="Resource" script_class="DialogueResource" format=3]
+
+[ext_resource type="Script" uid="uid://dbs4435dsf3ry" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_q34dk"]
+
+[resource]
+script = ExtResource("1_q34dk")
+using_states = PackedStringArray()
+titles = {
+"start": "1"
+}
+character_names = PackedStringArray("Game dev")
+first_title = "0"
+lines = {
+"0": {
+&"id": "0",
+&"next_id": "1",
+&"type": "title"
+},
+"1": {
+&"character": "Game dev",
+&"id": "1",
+&"next_id": "2",
+&"text": "well well well",
+&"type": "dialogue"
+},
+"2": {
+&"character": "Game dev",
+&"id": "2",
+&"next_id": "3",
+&"text": "you know that you were not suppost to be here right?",
+&"type": "dialogue"
+},
+"3": {
+&"id": "3",
+&"is_snippet": false,
+&"next_id": "end",
+&"next_id_after": "",
+&"type": "goto"
+},
+"4": {
+&"id": "4",
+&"is_snippet": false,
+&"next_id": "end",
+&"next_id_after": "",
+&"type": "goto"
+}
+}
+raw_text = "~ start
+Game dev: well well well
+Game dev: you know that you were not suppost to be here right?
+=> END"
+metadata/dialogue_manager_version = "3.10.4"

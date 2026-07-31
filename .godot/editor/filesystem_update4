@@ -11,3 +11,9 @@ res://map/map6.tscn
 res://user interface/dead menu.tscn
 res://game function/killzone_(try_to_find_a_loophole).gd
 res://game function/dead area 1 (try to find a loophole).tscn
+res://head.gd
+res://user interface/dead menu (found loophole).tscn
+res://actionable 2d.tscn
+res://actionable_2d.gd
+res://user interface/dead_menu_(found_loophole).gd
+res://dialogue/balloon.tscn

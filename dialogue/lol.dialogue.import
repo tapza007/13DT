@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://b2b3ktid1isip"
+path="res://.godot/imported/lol.dialogue-466f12c71033582644e7950c57936d6b.tres"
+
+[deps]
+
+source_file="res://dialogue/lol.dialogue"
+dest_files=["res://.godot/imported/lol.dialogue-466f12c71033582644e7950c57936d6b.tres"]
+
+[params]
+
+defaults=true
