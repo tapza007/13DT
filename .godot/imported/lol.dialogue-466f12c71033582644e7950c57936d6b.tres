@@ -8,7 +8,7 @@ using_states = PackedStringArray()
 titles = {
 "start": "1"
 }
-character_names = PackedStringArray("Game dev")
+character_names = PackedStringArray("Game dev", "You")
 first_title = "0"
 lines = {
 "0": {
@@ -23,6 +23,76 @@ lines = {
 &"text": "well well well",
 &"type": "dialogue"
 },
+"10": {
+&"character": "You",
+&"id": "10",
+&"next_id": "11",
+&"text": "I donno becasue this is my first time playing this game.",
+&"type": "dialogue"
+},
+"11": {
+&"character": "Game dev",
+&"id": "11",
+&"next_id": "12",
+&"text": "Is it?",
+&"type": "dialogue"
+},
+"12": {
+&"character": "Game dev",
+&"id": "12",
+&"next_id": "13",
+&"text": "...",
+&"type": "dialogue"
+},
+"13": {
+&"character": "Game dev",
+&"id": "13",
+&"next_id": "14",
+&"text": "Well since this is yours fisrt time",
+&"type": "dialogue"
+},
+"14": {
+&"character": "Game dev",
+&"id": "14",
+&"next_id": "15",
+&"text": "I'll let you go",
+&"type": "dialogue"
+},
+"15": {
+&"character": "Game dev",
+&"id": "15",
+&"next_id": "16",
+&"text": "BUT",
+&"type": "dialogue"
+},
+"16": {
+&"character": "Game dev",
+&"id": "16",
+&"next_id": "17",
+&"text": "If you think you try to outsmart this game again",
+&"type": "dialogue"
+},
+"17": {
+&"character": "Game dev",
+&"id": "17",
+&"next_id": "18",
+&"text": "hehehe",
+&"type": "dialogue"
+},
+"18": {
+&"character": "Game dev",
+&"id": "18",
+&"next_id": "19",
+&"text": "let just said you have no second chance",
+&"type": "dialogue"
+},
+"19": {
+&"character": "Game dev",
+&"id": "19",
+&"next_id": "20",
+&"text": "So yeah , I will move you back then",
+&"type": "dialogue"
+},
 "2": {
 &"character": "Game dev",
 &"id": "2",
@@ -30,23 +100,97 @@ lines = {
 &"text": "you know that you were not suppost to be here right?",
 &"type": "dialogue"
 },
-"3": {
-&"id": "3",
+"20": {
+&"character": "Game dev",
+&"id": "20",
+&"next_id": "21",
+&"text": "So good luck",
+&"type": "dialogue"
+},
+"21": {
+&"id": "21",
 &"is_snippet": false,
 &"next_id": "end",
 &"next_id_after": "",
 &"type": "goto"
 },
-"4": {
-&"id": "4",
+"22": {
+&"id": "22",
 &"is_snippet": false,
 &"next_id": "end",
 &"next_id_after": "",
 &"type": "goto"
+},
+"3": {
+&"id": "3",
+&"next_id": "4",
+&"responses": PackedStringArray("3"),
+&"text": "No?",
+&"type": "response"
+},
+"4": {
+&"character": "You",
+&"id": "4",
+&"next_id": "5",
+&"text": "No?",
+&"type": "dialogue"
+},
+"5": {
+&"character": "Game dev",
+&"id": "5",
+&"next_id": "6",
+&"text": "its seem like you donno",
+&"type": "dialogue"
+},
+"6": {
+&"character": "Game dev",
+&"id": "6",
+&"next_id": "7",
+&"text": "let just say you were try to find a loophole in the map",
+&"type": "dialogue"
+},
+"7": {
+&"character": "Game dev",
+&"id": "7",
+&"next_id": "8",
+&"text": "when you see the void , you decided to jump and think you will escape from this nightmare?",
+&"type": "dialogue"
+},
+"8": {
+&"id": "8",
+&"next_id": "9",
+&"responses": PackedStringArray("8"),
+&"text": "I'm so so sorry",
+&"type": "response"
+},
+"9": {
+&"character": "You",
+&"id": "9",
+&"next_id": "10",
+&"text": "I'm so so sorry",
+&"type": "dialogue"
 }
 }
 raw_text = "~ start
 Game dev: well well well
 Game dev: you know that you were not suppost to be here right?
+- No?
+	You: No?
+Game dev: its seem like you donno
+Game dev: let just say you were try to find a loophole in the map
+Game dev: when you see the void , you decided to jump and think you will escape from this nightmare?
+- I'm so so sorry
+	You: I'm so so sorry
+You: I donno becasue this is my first time playing this game.
+Game dev: Is it?
+Game dev: ...
+Game dev:  Well since this is yours fisrt time
+Game dev: I'll let you go
+Game dev: BUT
+Game dev: If you think you try to outsmart this game again
+Game dev: hehehe
+Game dev: let just said you have no second chance
+Game dev: So yeah , I will move you back then
+Game dev: So good luck
 => END"
 metadata/dialogue_manager_version = "3.10.4"

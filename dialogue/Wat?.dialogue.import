@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://d3814yqavitqe"
+path="res://.godot/imported/Wat?.dialogue-4ed3330bcd1b48002ef3d74a6dcb5f3f.tres"
+
+[deps]
+
+source_file="res://dialogue/Wat?.dialogue"
+dest_files=["res://.godot/imported/Wat?.dialogue-4ed3330bcd1b48002ef3d74a6dcb5f3f.tres"]
+
+[params]
+
+defaults=true

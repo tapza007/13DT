@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://mp0fsc20stow"
+path="res://.godot/imported/find a loophole .dialogue-820f7c4e02cf9f12f0378808e5f2b0ed.tres"
+
+[deps]
+
+source_file="res://dialogue/find a loophole .dialogue"
+dest_files=["res://.godot/imported/find a loophole .dialogue-820f7c4e02cf9f12f0378808e5f2b0ed.tres"]
+
+[params]
+
+defaults=true

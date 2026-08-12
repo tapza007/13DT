@@ -1,5 +1,6 @@
 extends Area2D
 
+# actionable for 2D
 @export var dialogue_resource : DialogueResource
 @export var dialogue_start: String = "start"
 
