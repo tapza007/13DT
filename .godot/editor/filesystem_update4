@@ -1,32 +1,20 @@
-res://map/maptest 2.tscn
+res://map/map5.tscn
 res://addons/roommate/defaults/default_setting_values.tres
 res://crtforplayer2.gdshader
 res://map/dithering.gdshader
-res://map/map5.tscn
-res://items/test area 2.tscn
-res://map/player test area.tscn
-res://player_3d.tscn
-res://blender/inside hotel 0_BR_1.jpg
+res://game function/enermy 1 test.tscn
+res://game function/enermy_1_test.gd
 res://map/map6.tscn
-res://user interface/dead menu.tscn
-res://game function/killzone_(try_to_find_a_loophole).gd
-res://game function/dead area 1 (try to find a loophole).tscn
-res://head.gd
-res://user interface/dead menu (found loophole).tscn
-res://actionable 2d.tscn
-res://actionable_2d.gd
-res://user interface/dead_menu_(found_loophole).gd
-res://dialogue/balloon.tscn
-res://user interface/main menu.tscn
-res://user interface/pause_menu.gd
-res://user interface/pause menu.tscn
+res://map/player test area.tscn
 res://map/obby map 2.tscn
-res://map/obby_map_2.gd
-res://game function/dead_area_1_(try_to_find_a_loophole).gd
-res://user interface/dead menu find loophole (real death).tscn
-res://user interface/dead_menu_find_loophole_(real_death).gd
-res://user interface/dead menu cam.gd
+res://user interface/dead menu (found loophole).tscn
+res://game function/enermy 2.tscn
+res://player_3d.tscn
+res://user interface/dead menu.tscn
 res://user interface/dead_menu.gd
+res://map/map test 3.tscn
 res://map/maze 1.tscn
-res://user interface/main_menu.gd
 res://user interface/mainmenu 3d.tscn
+res://user interface/main_menu.gd
+res://user interface/main menu.tscn
+res://map/maptest 2.tscn
