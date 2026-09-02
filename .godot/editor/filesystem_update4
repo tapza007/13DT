@@ -18,3 +18,11 @@ res://user interface/mainmenu 3d.tscn
 res://user interface/main_menu.gd
 res://user interface/main menu.tscn
 res://map/maptest 2.tscn
+res://Player 2.tscn
+res://game function/killzone_(try_to_find_a_loophole).gd
+res://map/parkout.tscn
+res://items/torch.tscn
+res://player3.tscn
+res://king pineapple.tscn
+res://textures/map 2 (made my me)_Bricks085_1K-JPG_Color.jpg
+res://textures/map 2 (made my me)_grass texture 3.jpg

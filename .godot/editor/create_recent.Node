@@ -1,12 +1,12 @@
-MeshInstance3D
 CollisionShape3D
 Area3D
+CSGMesh3D
+SpotLight3D
+WorldEnvironment
+CharacterBody3D
+MeshInstance3D
 NavigationRegion3D
 NavigationAgent3D
-CharacterBody3D
-SpotLight3D
-CSGMesh3D
-WorldEnvironment
 Camera3D
 PanelContainer
 Button
