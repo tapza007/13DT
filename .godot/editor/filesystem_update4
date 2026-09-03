@@ -26,3 +26,5 @@ res://player3.tscn
 res://king pineapple.tscn
 res://textures/map 2 (made my me)_Bricks085_1K-JPG_Color.jpg
 res://textures/map 2 (made my me)_grass texture 3.jpg
+res://items/test area 2.tscn
+res://user interface/pause_menu.gd

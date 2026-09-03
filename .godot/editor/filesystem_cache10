@@ -1,5 +1,5 @@
 f098f8d3115d962055284dee314b4f89
-::res://::1788307882
+::res://::1788384752
 actionable 2d.tscn::PackedScene::6660693550567380978::1786492911::0::1::::<><><>0<>0<><>::uid://ye71mb3njvg1::::res://actionable_2d.gd
 actionable_2d.gd::GDScript::1694779765854019090::1785491127::0::1::::<>Area2D<><>0<>0<><>::
 Ananas photo frame (made by me).glb::PackedScene::1136757374520297454::1786935749::1786935750::1::::<><><>0<>0<>a3c3d93ae23bd179180f10cff05cf1ab<>res://.godot/imported/Ananas photo frame (made by me).glb-880aa194ebf4b7a2ea1b6241369dbaf3.scn::uid://1mpmsp0o1ocr::::res://Ananas photo frame (made by me)_Wood_21-128x128.png<>uid://j0cgsoux4b7f::::res://Ananas photo frame (made by me)_ananas 🤑(pineapple).png
@@ -7,14 +7,14 @@ crtforplayer2.gdshader::Shader::6161431806544540407::1786569741::0::1::::<><><>0
 crtforplayer.gdshader::Shader::7607883392844255736::1779654057::0::1::::<><><>0<>0<><>::
 head.gd::GDScript::7716670156734476911::1785491127::0::1::::<>Node3D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::3125560700184174254::1777861724::1779677936::1::::<><><>0<>0<>74bf20625b2fda76b18abf3108e12398<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-king pineapple.tscn::PackedScene::8025971875474071500::1788307851::0::1::::<><><>0<>0<><>::uid://cfo1688qf7nam::::res://blender/pineapple 1(made by me).glb
+king pineapple.tscn::PackedScene::8025971875474071500::1788311178::0::1::::<><><>0<>0<><>::uid://cfo1688qf7nam::::res://blender/pineapple 1(made by me).glb
 map 2 (made my me).glb::PackedScene::5768459058473707335::1782338055::1782338056::1::::<><><>0<>0<>c4abd26c145a7c0d73cbeb576f98ecd9<>res://.godot/imported/map 2 (made my me).glb-2855229c91f7ff99b789b31a744c8482.scn::uid://bqvvh55sq85uk::::res://map 2 (made my me)_Bricks085_1K-JPG_Color.jpg<>uid://c1ryr15kd7qli::::res://map 2 (made my me)_grass texture 3.jpg
 maze made by me9.glb::PackedScene::4762211849003539470::1787703303::1787703311::1::::<><><>0<>0<>8037a32432cf1176e677dea0bf60f603<>res://.godot/imported/maze made by me9.glb-f4091b6b2d2c0be3caa75bdd76074376.scn::uid://dd72um5cthcmg::::res://maze made by me9_wooden floor.jpg<>uid://bxqblae1ro5dv::::res://maze made by me9_Screenshot 2026-08-10 at 2.33.png<>uid://cdqbpeolfhqmh::::res://maze made by me9_Screenshot 2026-08-10 at 2.38.png<>uid://6go64x7fmiqw::::res://maze made by me9_Wood_21-128x128.png<>uid://cn7k77yyklyn::::res://maze made by me9_Untitled_0.png
 pineapple (made by me).glb::PackedScene::1914829332338010616::1787177150::1787177151::1::::<><><>0<>0<>5334c7fcc0dba322f96b0d2becf0f95d<>res://.godot/imported/pineapple (made by me).glb-f58f2f8a1da6434d343f7b5ea657d497.scn::uid://drs5y5ogabln::::res://pineapple (made by me)_Screenshot 2026-08-20 at 10.03.png
 pineapple (made by me)_Screenshot 2026-08-20 at 10.03.png::CompressedTexture2D::246808739968708007::1787177151::1787177151::1::::<><><>0<>0<>4309601692168694106ff36c87566a23<>res://.godot/imported/pineapple (made by me)_Screenshot 2026-08-20 at 10.03.png-746ce36d1626bc975c523aa787649e8d.s3tc.ctex::
-player3.tscn::PackedScene::5140338472959255491::1787879257::0::1::::<><><>0<>0<><>::uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader<>uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp<>uid://cnd1sre1bf0kx::::res://items/torch.tscn
+player3.tscn::PackedScene::5140338472959255491::1788384752::0::1::::<><><>0<>0<><>::uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader<>uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp<>uid://cnd1sre1bf0kx::::res://items/torch.tscn
 Player 2.tscn::PackedScene::5792372485273445147::1787703186::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp
-player_3d.tscn::PackedScene::8126263533799219263::1787781088::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp<>uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader
+player_3d.tscn::PackedScene::8126263533799219263::1788384581::0::1::::<><><>0<>0<><>::uid://7w4bigrkk0x2::::res://sound/freesound_community-concrete-footsteps-1-6265.mp3<>uid://dh7aovffcdt1x::::res://head.gd<>uid://cp8nr6gomfnbh::::res://png and other photo file/white dot png.webp<>uid://ct1v48gwo4tbb::::res://crtforplayer2.gdshader
 README.md::TextFile::-1::1779676113::0::1::::<><><>0<>0<><>::
 torch0.1 (made by me).glb::PackedScene::1161840091075925979::1787877727::1787877728::1::::<><><>0<>0<>e3d6a2f599796367cb22d93ff608a9f1<>res://.godot/imported/torch0.1 (made by me).glb-19488a7f15e2bd2299e7360074968b4f.scn::
 ::res://addons/::1785456621
@@ -193,13 +193,13 @@ pineapple 1(made by me).glb::PackedScene::5154322660540202448::1788307617::17883
 pineapple 1(made by me)_pineapple texture.jpg::CompressedTexture2D::6307484509747337701::1788307852::1788307853::1::::<><><>0<>0<>85aafc3f7731ba3661a9565fe579c5d3<>res://.godot/imported/pineapple 1(made by me)_pineapple texture.jpg-a610e225061f701eafe01c71ae8dd89c.s3tc.ctex::
 ::res://blender/textures/::1781049490
 ::res://CC0 models/::1780887467
-::res://dialogue/::1785965967
+::res://dialogue/::1788311863
 balloon.gd::GDScript::68933973214518527::1785460056::0::1::::<>CanvasLayer<><>0<>0<><>::
 balloon.tscn::PackedScene::599303461655456182::1786492911::0::1::::<><><>0<>0<><>::uid://8nlklkif6vr::::res://dialogue/balloon.gd<>uid://ckvgyvclnwggo::::res://addons/dialogue_manager/dialogue_label.tscn<>uid://bb52rsfwhkxbn::::res://addons/dialogue_manager/dialogue_responses_menu.gd
-find a loophole .dialogue::Resource::874759593526777534::1785804064::1785804064::1::::<><><>0<>0<>9ab95909d9ac22df2de4d07fd8c30d16<>res://.godot/imported/find a loophole .dialogue-820f7c4e02cf9f12f0378808e5f2b0ed.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
+find a loophole .dialogue::Resource::874759593526777534::1788311805::1788311805::1::::<><><>0<>0<>9ab95909d9ac22df2de4d07fd8c30d16<>res://.godot/imported/find a loophole .dialogue-820f7c4e02cf9f12f0378808e5f2b0ed.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
 lol.dialogue::Resource::4285302783884019751::1785637158::1785637158::1::::<><><>0<>0<>2ae64afd42eb45a88b906258870f83c1<>res://.godot/imported/lol.dialogue-466f12c71033582644e7950c57936d6b.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
 test 1.dialogue::Resource::2650281672666234956::1785456682::1785456683::1::::<><><>0<>0<>f52baa4939be89fa972b2dcd8feca3d1<>res://.godot/imported/test 1.dialogue-6d11e8abb69c8d02b1b997193e2d1674.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
-Wat?.dialogue::Resource::9194305853969026688::1785724843::1785724843::1::::<><><>0<>0<>311d86b5787cd42bc0e791eb6e15da5f<>res://.godot/imported/Wat?.dialogue-4ed3330bcd1b48002ef3d74a6dcb5f3f.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
+Wat?.dialogue::Resource::9194305853969026688::1788386685::1788386685::1::::<><><>0<>0<>311d86b5787cd42bc0e791eb6e15da5f<>res://.godot/imported/Wat?.dialogue-4ed3330bcd1b48002ef3d74a6dcb5f3f.tres::uid://dbs4435dsf3ry::::res://addons/dialogue_manager/dialogue_resource.gd
 ::res://furniture (I made it)/::1781050410
 bed1.tscn::PackedScene::8012065031401886935::1786492911::0::1::::<><><>0<>0<><>::uid://cveqjvx1edsw0::::res://blender/bed (made by me).blend
 ::res://game function/::1787610638
@@ -209,26 +209,26 @@ enermy 1 test.tscn::PackedScene::8443875379477167566::1786571951::0::1::::<><><>
 enermy 2.tscn::PackedScene::5497290492490023897::1786610164::0::1::::<><><>0<>0<><>::
 enermy_1_test.gd::GDScript::7720734467679738944::1786571003::0::1::::<>CharacterBody3D<><>0<>0<><>::
 killzone_(try_to_find_a_loophole).gd::GDScript::3222078285489544329::1787610638::0::1::::<>Area3D<><>0<>0<><>::
-::res://items/::1787879309
+::res://items/::1788385564
 camera.tscn::PackedScene::1335252153941234078::1786492911::0::1::::<><><>0<>0<><>::uid://bs6k8t21syl42::::res://blender/camera (made by me).blend
-test area 2.tscn::PackedScene::968428565427179149::1786492911::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://c30rqk4i3re3m::::res://blender/map3 (made by me).glb<>uid://cqnsjvqtvrdmg::::res://game function/dead area 1 (try to find a loophole).tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
-torch.tscn::PackedScene::5693101154304071879::1787879309::0::1::::<><><>0<>0<><>::uid://qs2lpb476p7h::::res://torch0.1 (made by me).glb
-::res://map/::1787878975
+test area 2.tscn::PackedScene::968428565427179149::1788386685::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://c30rqk4i3re3m::::res://blender/map3 (made by me).glb<>uid://cqnsjvqtvrdmg::::res://game function/dead area 1 (try to find a loophole).tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+torch.tscn::PackedScene::5693101154304071879::1788385564::0::1::::<><><>0<>0<><>::uid://qs2lpb476p7h::::res://torch0.1 (made by me).glb
+::res://map/::1788312190
 crt1.gdshader::Shader::8753494984943397803::1779407983::0::1::::<><><>0<>0<><>::
 dithering.gdshader::Shader::5832626522538652151::1786569741::0::1::::<><><>0<>0<><>::
 map1.tscn::PackedScene::4773628968044459342::1786492911::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn
 map5.6(made by me).glb::PackedScene::3909987806377041148::1784854238::1786934784::1::::<><><>0<>0<>e67f4435b16dbd9f232189763ed7cc12<>res://.godot/imported/map5.6(made by me).glb-4911da80aaabddea37cdd1bcd2e4296d.scn::
 map5.tscn::PackedScene::309483262567998841::1787878975::0::1::::<><><>0<>0<><>::uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://bvya6sw01dwga::::res://map/map5.6(made by me).glb<>uid://cfiavg6oj62cl::::res://player3.tscn
 map6.tscn::PackedScene::3320966912823224983::1787272865::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://dj4e2uexwx3kl::::res://map/meat floor fixed (made by me).glb
-map test 3.tscn::PackedScene::1950070729255203122::1787877575::0::1::::<><><>0<>0<><>::uid://cogjxbwunvy8n::::res://map 2 (made my me).glb<>uid://b5tuswaxgbv62::::res://textures/psx_texture.tscn<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://2js7vabkrv4c::::res://pineapple (made by me).glb
+map test 3.tscn::PackedScene::1950070729255203122::1788312190::0::1::::<><><>0<>0<><>::uid://cogjxbwunvy8n::::res://map 2 (made my me).glb<>uid://b5tuswaxgbv62::::res://textures/psx_texture.tscn<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://2js7vabkrv4c::::res://pineapple (made by me).glb<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 maptest 2.tscn::PackedScene::5097824920126092925::1787781558::0::1::::<><><>0<>0<><>::uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://bjppbhdnj1m74::::res://blender/inside hotel 0.00005.glb<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 maze 1.tscn::PackedScene::8925834369772960859::1787781660::0::1::::<><><>0<>0<><>::uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn<>uid://b8336y81jwspi::::res://maze made by me9.glb<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader
 meat floor fixed (made by me).glb::PackedScene::7851120740817397575::1785361343::1786934772::1::::<><><>0<>0<>34b6020ab8bda8f6a979ca34931cb376<>res://.godot/imported/meat floor fixed (made by me).glb-9040ff70675f84176a55b00147d50bef.scn::uid://1jovckg5tv1p::::res://map/meat floor fixed (made by me)_Screenshot 2026-07-30 at 9.34.png
 meat floor fixed (made by me)_Screenshot 2026-07-30 at 9.34.png::CompressedTexture2D::1844376994754332303::1786934769::1786934772::1::::<><><>0<>0<>564a76d4896ae0ff286e3a05301bfbe8<>res://.godot/imported/meat floor fixed (made by me)_Screenshot 2026-07-30 at 9.34.png-b09ee0164174d9498970bda4ec7f9ccd.s3tc.ctex::
-obby map 2.tscn::PackedScene::2921341962734354483::1787878232::0::1::::<><><>0<>0<><>::uid://btexf236hjif::::res://map/obby_map_2.gd<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://c15qwc8ndlvje::::res://actionable 2d.tscn<>uid://d3814yqavitqe::::res://dialogue/Wat?.dialogue<>uid://c30rqk4i3re3m::::res://blender/map3 (made by me).glb<>uid://cqnsjvqtvrdmg::::res://game function/dead area 1 (try to find a loophole).tscn<>uid://dmi76ckp4kw4b::::res://game function/dead_area_1_(try_to_find_a_loophole).gd<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+obby map 2.tscn::PackedScene::2921341962734354483::1788311846::0::1::::<><><>0<>0<><>::uid://btexf236hjif::::res://map/obby_map_2.gd<>uid://dn1omxl5bbj5h::::res://player_3d.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://c15qwc8ndlvje::::res://actionable 2d.tscn<>uid://d3814yqavitqe::::res://dialogue/Wat?.dialogue<>uid://c30rqk4i3re3m::::res://blender/map3 (made by me).glb<>uid://cqnsjvqtvrdmg::::res://game function/dead area 1 (try to find a loophole).tscn<>uid://dmi76ckp4kw4b::::res://game function/dead_area_1_(try_to_find_a_loophole).gd<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 obby_map_2.gd::GDScript::109696267836420641::1785725039::0::1::::<>Node3D<><>0<>0<><>::
 parkout.tscn::PackedScene::2956016481059942239::1787704034::0::1::::<><><>0<>0<><>::uid://cor4r8amy8l8f::::res://Player 2.tscn
-player test area.tscn::PackedScene::5441686931037947179::1787610638::0::1::::<><><>0<>0<><>::uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://ckk6tomkdayw4::::res://game function/enermy 2.tscn<>uid://cor4r8amy8l8f::::res://Player 2.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
+player test area.tscn::PackedScene::5441686931037947179::1788311066::0::1::::<><><>0<>0<><>::uid://dmfdsm2oa74r8::::res://furniture (I made it)/bed1.tscn<>uid://cpdmrhyd1kcxr::::res://map/dithering.gdshader<>uid://ckk6tomkdayw4::::res://game function/enermy 2.tscn<>uid://cor4r8amy8l8f::::res://Player 2.tscn<>uid://dml3t4kuvcrbg::::res://king pineapple.tscn<>uid://bdf2q3t5vd4q6::::res://user interface/pause menu.tscn
 ::res://png and other photo file/::1780443838
 ananas photo 0_ananas 🤑(pineapple).png::CompressedTexture2D::1358831425488888515::1780014063::1780345205::1::::<><><>0<>0<>be9bb0431079e7695c404a75c5a1b3a9<>res://.godot/imported/ananas photo 0_ananas 🤑(pineapple).png-ac9a4f7c8e29e1258857a4a7659973b8.s3tc.ctex::
 ananas photo 0_Image_0.png::CompressedTexture2D::4322153876532025129::1780014062::1780345221::1::::<><><>0<>0<>2fdbdedd792296ea50a050eb38b1cbea<>res://.godot/imported/ananas photo 0_Image_0.png-5523c24688106ec9d0a3703ece03a112.s3tc.ctex::
@@ -243,7 +243,7 @@ wooden planks_Wood_21-128x128.png::CompressedTexture2D::1580125610451435389::177
 ::res://sound/::1787781756
 dead sound 0.0001 (made by me).mp3::AudioStreamMP3::5862843288787359046::1785284070::1785284082::1::::<><><>0<>0<>289fb70cedd8a6a8cd8d75900e44742b<>res://.godot/imported/dead sound 0.0001 (made by me).mp3-343642f1687e49d42a2268c191dc4f54.mp3str::
 freesound_community-concrete-footsteps-1-6265.mp3::AudioStreamMP3::2293222315832299677::1778789394::1787781756::1::::<><><>0<>0<>a497a4a11259a3b4254ee6c714250c23<>res://.godot/imported/freesound_community-concrete-footsteps-1-6265.mp3-ffc8fdfe039311ddd140a4008d6f62c7.mp3str::
-::res://textures/::1788307882
+::res://textures/::1788307883
 Ananas photo frame (made by me)_ananas 🤑(pineapple).png::CompressedTexture2D::683442153330898849::1786935750::1787018249::1::::<><><>0<>0<>af9b52e46ee454b3c2e7925fd25d9395<>res://.godot/imported/Ananas photo frame (made by me)_ananas 🤑(pineapple).png-e1487dea34ee4f6ac40cf8ae176f1578.s3tc.ctex::
 Ananas photo frame (made by me)_Wood_21-128x128.png::CompressedTexture2D::1850615621803916317::1786935750::1787018249::1::::<><><>0<>0<>8bf02d95967bec9ba3ad62d0ed99613e<>res://.godot/imported/Ananas photo frame (made by me)_Wood_21-128x128.png-fde301af86664bb0e70d8f210779b227.s3tc.ctex::
 Armchair_BaseColor.png::CompressedTexture2D::2492249952844405796::1779185845::1779838927::1::::<><><>0<>0<>d37318513ca8ef284dac6a516307748d<>res://.godot/imported/Armchair_BaseColor.png-ecd729f8a4bcc64e31ce019e348caebc.s3tc.ctex::

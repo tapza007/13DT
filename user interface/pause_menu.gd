@@ -4,6 +4,7 @@ func _ready() -> void:
 	visible = false
 	get_tree().paused = false
 
+
 func resume():
 	get_tree().paused = false
 	Input.mouse_mode = Input.MOUSE_MODE_CAPTURED

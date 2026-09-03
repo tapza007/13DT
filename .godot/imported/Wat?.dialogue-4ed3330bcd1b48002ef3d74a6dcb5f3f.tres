@@ -20,15 +20,15 @@ lines = {
 &"character": "You",
 &"id": "1",
 &"next_id": "2",
-&"text": "Huh?",
+&"text": "[[Huh?|Da hel?]]",
 &"type": "dialogue"
 },
 "2": {
+&"character": "You",
 &"id": "2",
-&"is_snippet": false,
-&"next_id": "end",
-&"next_id_after": "",
-&"type": "goto"
+&"next_id": "3",
+&"text": "Whatever ¯\\_(ツ)_/¯.",
+&"type": "dialogue"
 },
 "3": {
 &"id": "3",
@@ -36,9 +36,17 @@ lines = {
 &"next_id": "end",
 &"next_id_after": "",
 &"type": "goto"
+},
+"4": {
+&"id": "4",
+&"is_snippet": false,
+&"next_id": "end",
+&"next_id_after": "",
+&"type": "goto"
 }
 }
 raw_text = "~ start
-You: Huh?
+You: [[Huh?|Da hel?]]
+You: Whatever ¯\\_(ツ)_/¯.
 => END"
 metadata/dialogue_manager_version = "3.10.4"
