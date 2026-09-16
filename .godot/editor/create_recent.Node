@@ -1,3 +1,10 @@
+ColorRect
+AnimationPlayer
+AudioStreamPlayer
+NavigationAgent3D
+CollisionShape3D
+CharacterBody3D
+NavigationRegion3D
 PathFollow3D
 Path3D
 CSGMesh3D
@@ -5,10 +12,3 @@ SubViewport
 SubViewportContainer
 CanvasLayer
 RayCast3D
-CollisionShape3D
-Area3D
-SpotLight3D
-WorldEnvironment
-CharacterBody3D
-MeshInstance3D
-NavigationRegion3D

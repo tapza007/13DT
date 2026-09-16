@@ -28,3 +28,7 @@ res://textures/map 2 (made my me)_Bricks085_1K-JPG_Color.jpg
 res://textures/map 2 (made my me)_grass texture 3.jpg
 res://items/test area 2.tscn
 res://user interface/pause_menu.gd
+res://Cutscene/first cutscene .tscn
+res://Cutscene/first cutscene .gdshader
+res://Cutscene/first cutscene (0.1) .gdshader
+res://Cutscene/first cutscene (0.2) .gdshader

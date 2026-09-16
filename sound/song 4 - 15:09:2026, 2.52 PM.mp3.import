@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://df5dgbfbff7cr"
+path="res://.godot/imported/song 4 - 15:09:2026, 2.52 PM.mp3-c44015877f73726cdf9f6a9e262b6797.mp3str"
+
+[deps]
+
+source_file="res://sound/song 4 - 15:09:2026, 2.52 PM.mp3"
+dest_files=["res://.godot/imported/song 4 - 15:09:2026, 2.52 PM.mp3-c44015877f73726cdf9f6a9e262b6797.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
