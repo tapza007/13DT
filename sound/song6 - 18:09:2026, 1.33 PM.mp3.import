@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dx8h7id5rydl1"
+path="res://.godot/imported/song6 - 18:09:2026, 1.33 PM.mp3-3d4c85f7a0eea2a67ff2a3745ed9775b.mp3str"
+
+[deps]
+
+source_file="res://sound/song6 - 18:09:2026, 1.33 PM.mp3"
+dest_files=["res://.godot/imported/song6 - 18:09:2026, 1.33 PM.mp3-3d4c85f7a0eea2a67ff2a3745ed9775b.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=11.0
+beat_count=0
+bar_beats=6

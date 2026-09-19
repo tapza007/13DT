@@ -1,0 +1,292 @@
+[gd_resource type="Resource" script_class="DialogueResource" format=3]
+
+[ext_resource type="Script" uid="uid://dbs4435dsf3ry" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_xmw40"]
+
+[resource]
+script = ExtResource("1_xmw40")
+using_states = PackedStringArray()
+titles = {
+"start": "1"
+}
+character_names = PackedStringArray("...", "You", "Evil pineapple")
+first_title = "0"
+lines = {
+"0": {
+&"id": "0",
+&"next_id": "1",
+&"type": "title"
+},
+"1": {
+&"character": "...",
+&"id": "1",
+&"next_id": "2",
+&"text": "Hello.",
+&"type": "dialogue"
+},
+"10": {
+&"character": "You",
+&"id": "10",
+&"next_id": "11",
+&"text": "You are not going to distory my computure.",
+&"type": "dialogue"
+},
+"11": {
+&"character": "Evil pineapple",
+&"id": "11",
+&"next_id": "12",
+&"text": "ohhhhh, will see about that.",
+&"type": "dialogue"
+},
+"12": {
+&"character": "Evil pineapple",
+&"id": "12",
+&"next_id": "13",
+&"text": "I will stole every yours money from yours bank account.",
+&"type": "dialogue"
+},
+"13": {
+&"character": "You",
+&"id": "13",
+&"next_id": "14",
+&"text": "Go ahead, I only have 20.4 dollars in my bank account.",
+&"type": "dialogue"
+},
+"14": {
+&"character": "Evil pineapple",
+&"id": "14",
+&"next_id": "15",
+&"text": "Wait what?",
+&"type": "dialogue"
+},
+"15": {
+&"character": "Evil pineapple",
+&"id": "15",
+&"next_id": "16",
+&"text": "But I saw you having more than 100 games on yours computure.",
+&"type": "dialogue"
+},
+"16": {
+&"character": "You",
+&"id": "16",
+&"next_id": "17",
+&"text": "Well that is the reason why I only have 20 bucks.",
+&"type": "dialogue"
+},
+"17": {
+&"character": "Evil pineapple",
+&"id": "17",
+&"next_id": "18",
+&"text": "....",
+&"type": "dialogue"
+},
+"18": {
+&"character": "Evil pineapple",
+&"id": "18",
+&"next_id": "19",
+&"text": "Since I could not get yours money, so you are useless to me now.",
+&"type": "dialogue"
+},
+"19": {
+&"character": "You",
+&"id": "19",
+&"next_id": "20",
+&"text": "So could I get my Pc back to normal?",
+&"type": "dialogue"
+},
+"2": {
+&"character": "You",
+&"id": "2",
+&"next_id": "3",
+&"text": "What the heck.",
+&"type": "dialogue"
+},
+"20": {
+&"character": "Evil pineapple",
+&"id": "20",
+&"next_id": "21",
+&"text": "NO!",
+&"type": "dialogue"
+},
+"21": {
+&"character": "Evil pineapple",
+&"id": "21",
+&"next_id": "22",
+&"text": "I could but I don't want to.",
+&"type": "dialogue"
+},
+"22": {
+&"character": "Evil pineapple",
+&"id": "22",
+&"next_id": "23",
+&"text": "Well, if you want your PC back to normal again, you need to find a number in each file that I secretly installed in your computer",
+&"type": "dialogue"
+},
+"23": {
+&"character": "Evil pineapple",
+&"id": "23",
+&"next_id": "24",
+&"text": "If you find all the number, you could uninstall me.",
+&"type": "dialogue"
+},
+"24": {
+&"character": "Evil pineapple",
+&"id": "24",
+&"next_id": "25",
+&"text": "BUT, this ain't tho.",
+&"type": "dialogue"
+},
+"25": {
+&"character": "You",
+&"id": "25",
+&"next_id": "26",
+&"text": "Wait why you were helping me now.",
+&"type": "dialogue"
+},
+"26": {
+&"character": "Evil pineapple",
+&"id": "26",
+&"next_id": "27",
+&"text": "Because you were useless to me, since I could get yours money, so there is no point for staying in yours PC.",
+&"type": "dialogue"
+},
+"27": {
+&"character": "You",
+&"id": "27",
+&"next_id": "28",
+&"text": "But why don't you delete yourself then?",
+&"type": "dialogue"
+},
+"28": {
+&"character": "Evil pineapple",
+&"id": "28",
+&"next_id": "29",
+&"text": "Because I'm still want to waste yours time XD.",
+&"type": "dialogue"
+},
+"29": {
+&"character": "Evil pineapple",
+&"id": "29",
+&"next_id": "30",
+&"text": "Okay in short find a numbe, unlock a new file and boom yours PC is back.",
+&"type": "dialogue"
+},
+"3": {
+&"character": "...",
+&"id": "3",
+&"next_id": "4",
+&"text": "Let me introduct myself.",
+&"type": "dialogue"
+},
+"30": {
+&"character": "Evil pineapple",
+&"id": "30",
+&"next_id": "31",
+&"text": "Easy, right?",
+&"type": "dialogue"
+},
+"31": {
+&"character": "You",
+&"id": "31",
+&"next_id": "32",
+&"text": "...",
+&"type": "dialogue"
+},
+"32": {
+&"character": "You",
+&"id": "32",
+&"next_id": "33",
+&"text": "Oki",
+&"type": "dialogue"
+},
+"33": {
+&"id": "33",
+&"is_snippet": false,
+&"next_id": "end",
+&"next_id_after": "",
+&"type": "goto"
+},
+"34": {
+&"id": "34",
+&"is_snippet": false,
+&"next_id": "end",
+&"next_id_after": "",
+&"type": "goto"
+},
+"4": {
+&"character": "Evil pineapple",
+&"id": "4",
+&"next_id": "5",
+&"text": "I'm an evil pineapple and I'm computure virus.",
+&"type": "dialogue"
+},
+"5": {
+&"character": "Evil pineapple",
+&"id": "5",
+&"next_id": "6",
+&"text": "And I will distory yours computure.",
+&"type": "dialogue"
+},
+"6": {
+&"character": "You",
+&"id": "6",
+&"next_id": "7",
+&"text": "Nuh uh.",
+&"type": "dialogue"
+},
+"7": {
+&"character": "Evil pineapple",
+&"id": "7",
+&"next_id": "8",
+&"text": "?",
+&"type": "dialogue"
+},
+"8": {
+&"character": "Evil pineapple",
+&"id": "8",
+&"next_id": "9",
+&"text": "Huh?",
+&"type": "dialogue"
+},
+"9": {
+&"character": "You",
+&"id": "9",
+&"next_id": "10",
+&"text": "I said nuh uh.",
+&"type": "dialogue"
+}
+}
+raw_text = "~ start
+...: Hello.
+You: What the heck.
+...: Let me introduct myself.
+Evil pineapple: I'm an evil pineapple and I'm computure virus.
+Evil pineapple: And I will distory yours computure.
+You: Nuh uh.
+Evil pineapple: ?
+Evil pineapple: Huh?
+You: I said nuh uh.
+You: You are not going to distory my computure.
+Evil pineapple: ohhhhh, will see about that.
+Evil pineapple: I will stole every yours money from yours bank account.
+You: Go ahead, I only have 20.4 dollars in my bank account.
+Evil pineapple: Wait what?
+Evil pineapple: But I saw you having more than 100 games on yours computure.
+You: Well that is the reason why I only have 20 bucks.
+Evil pineapple: ....
+Evil pineapple: Since I could not get yours money, so you are useless to me now.
+You: So could I get my Pc back to normal?
+Evil pineapple: NO!
+Evil pineapple: I could but I don't want to.
+Evil pineapple: Well, if you want your PC back to normal again, you need to find a number in each file that I secretly installed in your computer
+Evil pineapple: If you find all the number, you could uninstall me.
+Evil pineapple: BUT, this ain't tho.
+You: Wait why you were helping me now.
+Evil pineapple: Because you were useless to me, since I could get yours money, so there is no point for staying in yours PC.
+You: But why don't you delete yourself then?
+Evil pineapple: Because I'm still want to waste yours time XD.
+Evil pineapple: Okay in short find a numbe, unlock a new file and boom yours PC is back.
+Evil pineapple: Easy, right?
+You: ...
+You: Oki
+=> END"
+metadata/dialogue_manager_version = "3.10.4"

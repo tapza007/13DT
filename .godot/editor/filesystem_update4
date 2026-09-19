@@ -32,3 +32,8 @@ res://Cutscene/first cutscene .tscn
 res://Cutscene/first cutscene .gdshader
 res://Cutscene/first cutscene (0.1) .gdshader
 res://Cutscene/first cutscene (0.2) .gdshader
+res://game function/dead area 1 (try to find a loophole).tscn
+res://user interface/death mean (player die).tscn
+res://Cutscene/first in game cutscene.tscn
+res://Cutscene/second in game .tscn
+res://crtforplayer.gdshader
