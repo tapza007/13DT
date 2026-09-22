@@ -5,7 +5,8 @@ extends Control
 func _ready() -> void:
 	DialogueManager.show_dialogue_balloon(load("res://dialogue/find a loophole .dialogue"),"start")
 	DialogueManager.dialogue_ended.connect(_on_dialogue_ended)
-
+	Input.mouse_mode = Input.MOUSE_MODE_VISIBLE
+	
 
 func _on_dialogue_ended(dialogue) -> void:
 	print("done")

@@ -8,7 +8,7 @@ using_states = PackedStringArray()
 titles = {
 "start": "1"
 }
-character_names = PackedStringArray("Game dev")
+character_names = PackedStringArray("Evil pineapple")
 first_title = "0"
 lines = {
 "0": {
@@ -17,7 +17,7 @@ lines = {
 &"type": "title"
 },
 "1": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "1",
 &"next_id": "2",
 &"text": "...",
@@ -31,49 +31,49 @@ lines = {
 &"type": "goto"
 },
 "2": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "2",
 &"next_id": "3",
 &"text": "What did I just told you",
 &"type": "dialogue"
 },
 "3": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "3",
 &"next_id": "4",
 &"text": "I said do not outsmart the game",
 &"type": "dialogue"
 },
 "4": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "4",
 &"next_id": "5",
 &"text": "I made this game so I know everything",
 &"type": "dialogue"
 },
 "5": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "5",
 &"next_id": "6",
 &"text": "I know when you will get jumpscare or when you will die",
 &"type": "dialogue"
 },
 "6": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "6",
 &"next_id": "7",
 &"text": "Since you not gonna lisen to me",
 &"type": "dialogue"
 },
 "7": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "7",
 &"next_id": "8",
 &"text": "You must",
 &"type": "dialogue"
 },
 "8": {
-&"character": "Game dev",
+&"character": "Evil pineapple",
 &"id": "8",
 &"next_id": "9",
 &"text": "DIE",
@@ -88,13 +88,13 @@ lines = {
 }
 }
 raw_text = "~ start
-Game dev: ...
-Game dev: What did I just told you
-Game dev: I said do not outsmart the game
-Game dev: I made this game so I know everything
-Game dev: I know when you will get jumpscare or when you will die
-Game dev: Since you not gonna lisen to me
-Game dev: You must 
-Game dev: DIE
+Evil pineapple: ...
+Evil pineapple: What did I just told you
+Evil pineapple: I said do not outsmart the game
+Evil pineapple: I made this game so I know everything
+Evil pineapple: I know when you will get jumpscare or when you will die
+Evil pineapple: Since you not gonna lisen to me
+Evil pineapple: You must 
+Evil pineapple: DIE
 => END"
 metadata/dialogue_manager_version = "3.10.4"

@@ -34,4 +34,4 @@ func _on_restart_button_up() -> void:
 
 # main menu button
 func _on_quit_pressed() -> void:
-	get_tree().quit()
+	get_tree().change_scene_to_file("res://desktop.tscn")

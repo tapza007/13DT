@@ -37,3 +37,12 @@ res://user interface/death mean (player die).tscn
 res://Cutscene/first in game cutscene.tscn
 res://Cutscene/second in game .tscn
 res://crtforplayer.gdshader
+res://desktop.tscn
+res://password.tscn
+res://user interface/warning.tscn
+res://user interface/skip?.tscn
+res://user interface/headphones .tscn
+res://user interface/dead_menu_(found_loophole).gd
+res://dialogue/balloon.tscn
+res://user interface/dead menu find loophole (real death).tscn
+res://user interface/dead_menu_find_loophole_(real_death).gd
