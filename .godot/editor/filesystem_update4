@@ -46,3 +46,5 @@ res://user interface/dead_menu_(found_loophole).gd
 res://dialogue/balloon.tscn
 res://user interface/dead menu find loophole (real death).tscn
 res://user interface/dead_menu_find_loophole_(real_death).gd
+res://user interface/how to play.tscn
+res://map/obby_map_2.gd
